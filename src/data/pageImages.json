@@ -1,0 +1,3294 @@
+{
+  "services": {
+    "house-removals": {
+      "src": "/images/residential-interior.jpg",
+      "alt": "Bright, furnished living room for a household move"
+    },
+    "home-removals": {
+      "src": "/images/london-home.jpg",
+      "alt": "Contemporary house exterior for a home move"
+    },
+    "office-removals": {
+      "src": "/images/office-interior.jpg",
+      "alt": "Modern open-plan office interior"
+    },
+    "packing-services": {
+      "src": "/images/packing-boxes.jpg",
+      "alt": "Movers carrying a plant and a moving box"
+    },
+    "furniture-removals": {
+      "src": "/images/furniture-interior.jpg",
+      "alt": "Furniture arranged in a bright living room"
+    },
+    "storage-solutions": {
+      "src": "/images/storage-unit.jpg",
+      "alt": "Stored goods on warehouse shelving"
+    },
+    "restaurant-removals": {
+      "src": "/images/restaurant-interior.jpg",
+      "alt": "Restaurant tables and seating ready for relocation"
+    },
+    "shop-removals": {
+      "src": "/images/retail-interior.jpg",
+      "alt": "Merchandise and fixtures inside a retail shop"
+    },
+    "warehouse-relocation": {
+      "src": "/images/warehouse-interior.jpg",
+      "alt": "Warehouse shelving and stored goods"
+    },
+    "long-distance-removals": {
+      "src": "/images/moving-truck.jpg",
+      "alt": "Heavy goods vehicle travelling on a road"
+    },
+    "flat-removals": {
+      "src": "/images/services/flat-removals.webp",
+      "alt": "Flat removals: AIMCO apartment exterior 2.",
+      "credit": {
+        "label": "Photo by Architecturist ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:AIMCO_apartment_exterior_2.jpg"
+      },
+      "source": {
+        "title": "AIMCO apartment exterior 2.jpg",
+        "author": "Architecturist",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "apartment-moving": {
+      "src": "/images/services/apartment-moving.webp",
+      "alt": "Apartment removals: Studio apartment in Finland.",
+      "credit": {
+        "label": "Photo by Aaaatu ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Studio_apartment_in_Finland.jpg"
+      },
+      "source": {
+        "title": "Studio apartment in Finland.jpg",
+        "author": "Aaaatu",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "studio-removals": {
+      "src": "/images/services/studio-removals.webp",
+      "alt": "Studio removals: Marseille studio icade.",
+      "credit": {
+        "label": "Photo by Icade ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Marseille_studio_icade.jpg"
+      },
+      "source": {
+        "title": "Marseille studio icade.jpg",
+        "author": "Icade",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "small-house-moves": {
+      "src": "/images/services/small-house-moves.webp",
+      "alt": "Small house moves: Best Farm small house MD1.",
+      "credit": {
+        "label": "Photo by Acroterion ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Best_Farm_small_house_MD1.jpg"
+      },
+      "source": {
+        "title": "Best Farm small house MD1.jpg",
+        "author": "Acroterion",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "large-house-moves": {
+      "src": "/images/services/large-house-moves.webp",
+      "alt": "Large house moves: Exterior view of a large house as seen from the road (AM 75061-1).",
+      "credit": {
+        "label": "Photo by Collins, Tudor Washington, 1898-1970, photographer ? CC BY 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Exterior_view_of_a_large_house_as_seen_from_the_road_(AM_75061-1).jpg"
+      },
+      "source": {
+        "title": "Exterior view of a large house as seen from the road (AM 75061-1).jpg",
+        "author": "Collins, Tudor Washington, 1898-1970, photographer",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      }
+    },
+    "family-home-moves": {
+      "src": "/images/services/family-home-moves.webp",
+      "alt": "Family home moves: Pauli Murray Family Home.",
+      "credit": {
+        "label": "Photo by Nyttend ? Public domain",
+        "href": "https://commons.wikimedia.org/wiki/File:Pauli_Murray_Family_Home.jpg"
+      },
+      "source": {
+        "title": "Pauli Murray Family Home.jpg",
+        "author": "Nyttend",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing"
+      }
+    },
+    "office-relocation": {
+      "src": "/images/services/office-relocation.webp",
+      "alt": "Office relocation: US Navy 031113-N-9693M-006 Office Mover employees move a credenza.",
+      "credit": {
+        "label": "Photo by U.S. Navy photo by Damon J. Moritz. ? Public domain",
+        "href": "https://commons.wikimedia.org/wiki/File:US_Navy_031113-N-9693M-006_Office_Mover_employees_move_a_credenza.jpg"
+      },
+      "source": {
+        "title": "US Navy 031113-N-9693M-006 Office Mover employees move a credenza.jpg",
+        "author": "U.S. Navy photo by Damon J. Moritz.",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing"
+      }
+    },
+    "commercial-removals": {
+      "src": "/images/services/commercial-removals.webp",
+      "alt": "Commercial removals: Ansan moving company crane 03.",
+      "credit": {
+        "label": "Photo by User:Piotrus ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Ansan_moving_company_crane_03.JPG"
+      },
+      "source": {
+        "title": "Ansan moving company crane 03.JPG",
+        "author": "User:Piotrus",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "business-relocation": {
+      "src": "/images/services/business-relocation.webp",
+      "alt": "Business relocation: ISUZU ELF 6th Gen, Sakai Moving Service Co., Ltd. Wide-Cab.",
+      "credit": {
+        "label": "Photo by Mj-bird ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:ISUZU_ELF_6th_Gen,_Sakai_Moving_Service_Co.,_Ltd._Wide-Cab.jpg"
+      },
+      "source": {
+        "title": "ISUZU ELF 6th Gen, Sakai Moving Service Co., Ltd. Wide-Cab.jpg",
+        "author": "Mj-bird",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "retail-relocation": {
+      "src": "/images/services/retail-relocation.webp",
+      "alt": "Retail relocation: Thornton Pianos Showroom Photo After Moving Into the Finglas Retail Space.",
+      "credit": {
+        "label": "Photo by ThorntonPianos ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Thornton_Pianos_Showroom_Photo_After_Moving_Into_the_Finglas_Retail_Space.jpg"
+      },
+      "source": {
+        "title": "Thornton Pianos Showroom Photo After Moving Into the Finglas Retail Space.jpg",
+        "author": "ThorntonPianos",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "factory-relocation": {
+      "src": "/images/services/factory-relocation.webp",
+      "alt": "Factory relocation: Göteborgs Kex biscuit factory 2 weeks before moving to Riga 03.",
+      "credit": {
+        "label": "Photo by Crannofonix ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:G%C3%B6teborgs_Kex_biscuit_factory_2_weeks_before_moving_to_Riga_03.jpg"
+      },
+      "source": {
+        "title": "Göteborgs Kex biscuit factory 2 weeks before moving to Riga 03.jpg",
+        "author": "Crannofonix",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "man-and-van": {
+      "src": "/images/services/man-and-van.webp",
+      "alt": "Man and van: Cousin Removal van Finchley, London.",
+      "credit": {
+        "label": "Photo by Philafrenzy ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Cousin_Removal_van_Finchley,_London.jpg"
+      },
+      "source": {
+        "title": "Cousin Removal van Finchley, London.jpg",
+        "author": "Philafrenzy",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "small-removals": {
+      "src": "/images/services/small-removals.webp",
+      "alt": "Small removals: Small Cardboard Moving Box Taped Closed (47303024341).",
+      "credit": {
+        "label": "Photo by HireAHelper ? CC BY 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Small_Cardboard_Moving_Box_Taped_Closed_(47303024341).jpg"
+      },
+      "source": {
+        "title": "Small Cardboard Moving Box Taped Closed (47303024341).jpg",
+        "author": "HireAHelper",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      }
+    },
+    "single-item-moving": {
+      "src": "/images/services/single-item-moving.webp",
+      "alt": "Single item moving: Moving house or a furniture delivery.",
+      "credit": {
+        "label": "Photo by Malcolm Neal ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Moving_house_or_a_furniture_delivery_-_geograph.org.uk_-_8387551.jpg"
+      },
+      "source": {
+        "title": "Moving house or a furniture delivery - geograph.org.uk - 8387551.jpg",
+        "author": "Malcolm Neal",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "furniture-collection-delivery": {
+      "src": "/images/services/furniture-collection-delivery.webp",
+      "alt": "Furniture collection and delivery: 5720-Linxia-City-moving-furniture-by-motorbike.",
+      "credit": {
+        "label": "Photo by User:Vmenkov ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:5720-Linxia-City-moving-furniture-by-motorbike.jpg"
+      },
+      "source": {
+        "title": "5720-Linxia-City-moving-furniture-by-motorbike.jpg",
+        "author": "User:Vmenkov",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "full-packing": {
+      "src": "/images/services/full-packing.webp",
+      "alt": "Full packing: Employee Packing Things Into Box.",
+      "credit": {
+        "label": "Photo by CIPHR Connect ? CC BY 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Employee_Packing_Things_Into_Box.jpg"
+      },
+      "source": {
+        "title": "Employee Packing Things Into Box.jpg",
+        "author": "CIPHR Connect",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      }
+    },
+    "partial-packing": {
+      "src": "/images/services/partial-packing.webp",
+      "alt": "Partial packing: Packing Boxes(GN08871).",
+      "credit": {
+        "label": "Photo by State Government Photographer ? CC0",
+        "href": "https://commons.wikimedia.org/wiki/File:Packing_Boxes(GN08871).jpg"
+      },
+      "source": {
+        "title": "Packing Boxes(GN08871).jpg",
+        "author": "State Government Photographer",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      }
+    },
+    "house-packing": {
+      "src": "/images/services/house-packing.webp",
+      "alt": "House packing: Man packing boxes, NINO F Scholten photographic print 09 190.",
+      "credit": {
+        "label": "Photo by Frank Scholten ? Public domain",
+        "href": "https://commons.wikimedia.org/wiki/File:Man_packing_boxes,_NINO_F_Scholten_photographic_print_09_190.tiff"
+      },
+      "source": {
+        "title": "Man packing boxes, NINO F Scholten photographic print 09 190.tiff",
+        "author": "Frank Scholten",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing"
+      }
+    },
+    "office-packing": {
+      "src": "/images/services/office-packing.webp",
+      "alt": "Office packing: Men packing boxes in the street, NINO F Scholten Jaffa 25 29.",
+      "credit": {
+        "label": "Photo by Frank Scholten ? Public domain",
+        "href": "https://commons.wikimedia.org/wiki/File:Men_packing_boxes_in_the_street,_NINO_F_Scholten_Jaffa_25_29.tiff"
+      },
+      "source": {
+        "title": "Men packing boxes in the street, NINO F Scholten Jaffa 25 29.tiff",
+        "author": "Frank Scholten",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing"
+      }
+    },
+    "fragile-item-packing": {
+      "src": "/images/services/fragile-item-packing.webp",
+      "alt": "Fragile item packing: NewOne - băng dính hàng dễ vỡ - printed fragile adhesive tape 01.",
+      "credit": {
+        "label": "Photo by Newone ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:NewOne_-_b%C4%83ng_d%C3%ADnh_h%C3%A0ng_d%E1%BB%85_v%E1%BB%A1_-_printed_fragile_adhesive_tape_01.jpg"
+      },
+      "source": {
+        "title": "NewOne - băng dính hàng dễ vỡ - printed fragile adhesive tape 01.jpg",
+        "author": "Newone",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "unpacking-services": {
+      "src": "/images/services/unpacking-services.webp",
+      "alt": "Unpacking services: Boxes to unpack (7734456122).",
+      "credit": {
+        "label": "Photo by Oregon Department of Transportation ? CC BY 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Boxes_to_unpack_(7734456122).jpg"
+      },
+      "source": {
+        "title": "Boxes to unpack (7734456122).jpg",
+        "author": "Oregon Department of Transportation",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      }
+    },
+    "packing-materials": {
+      "src": "/images/services/packing-materials.webp",
+      "alt": "Packing materials: Large Cardboard Moving Box Taped Closed (47008641671).",
+      "credit": {
+        "label": "Photo by HireAHelper ? CC BY 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Large_Cardboard_Moving_Box_Taped_Closed_(47008641671).jpg"
+      },
+      "source": {
+        "title": "Large Cardboard Moving Box Taped Closed (47008641671).jpg",
+        "author": "HireAHelper",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      }
+    },
+    "sofa-removals": {
+      "src": "/images/services/sofa-removals.webp",
+      "alt": "Sofa removals: Sofa, Couch, Studio, Rostov-on-Don, Russia.",
+      "credit": {
+        "label": "Photo by Vyacheslav Argenberg ? CC BY 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Sofa,_Couch,_Studio,_Rostov-on-Don,_Russia.jpg"
+      },
+      "source": {
+        "title": "Sofa, Couch, Studio, Rostov-on-Don, Russia.jpg",
+        "author": "Vyacheslav Argenberg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      }
+    },
+    "bed-removals": {
+      "src": "/images/services/bed-removals.webp",
+      "alt": "Bed removals: Wedding bed transport in Nakuru, Kenya.",
+      "credit": {
+        "label": "Photo by Ann-Kristin Mueller ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Wedding_bed_transport_in_Nakuru,_Kenya.jpg"
+      },
+      "source": {
+        "title": "Wedding bed transport in Nakuru, Kenya.jpg",
+        "author": "Ann-Kristin Mueller",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "table-removals": {
+      "src": "/images/services/table-removals.webp",
+      "alt": "Table removals: Dining table laid at Chatsworth House.",
+      "credit": {
+        "label": "Photo by Whiteghost.ink ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Dining_table_laid_at_Chatsworth_House.jpg"
+      },
+      "source": {
+        "title": "Dining table laid at Chatsworth House.jpg",
+        "author": "Whiteghost.ink",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "cabinet-moving": {
+      "src": "/images/services/cabinet-moving.webp",
+      "alt": "Cabinet moving: RCA 621TS Television Receiver (1946) with optional blonde cabinet, MoMI.",
+      "credit": {
+        "label": "Photo by Marcin Wichary from San Francisco, U.S.A. ? CC BY 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:RCA_621TS_Television_Receiver_(1946)_with_optional_blonde_cabinet,_MoMI.jpg"
+      },
+      "source": {
+        "title": "RCA 621TS Television Receiver (1946) with optional blonde cabinet, MoMI.jpg",
+        "author": "Marcin Wichary from San Francisco, U.S.A.",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      }
+    },
+    "household-storage": {
+      "src": "/images/services/household-storage.webp",
+      "alt": "Household storage: Midtown Apartments - fmr Fred F. Dye Storage Warehouse Company, Allied Household Storage - Buffalo, New York - 20201013.",
+      "credit": {
+        "label": "Photo by Andre Carrotflower ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Midtown_Apartments_-_fmr_Fred_F._Dye_Storage_Warehouse_Company,_Allied_Household_Storage_-_Buffalo,_New_York_-_20201013.jpg"
+      },
+      "source": {
+        "title": "Midtown Apartments - fmr Fred F. Dye Storage Warehouse Company, Allied Household Storage - Buffalo, New York - 20201013.jpg",
+        "author": "Andre Carrotflower",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "furniture-storage": {
+      "src": "/images/services/furniture-storage.webp",
+      "alt": "Furniture storage: Storage King Self Storage.",
+      "credit": {
+        "label": "Photo by Robbie Cameron ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Storage_King_Self_Storage.jpg"
+      },
+      "source": {
+        "title": "Storage King Self Storage.jpg",
+        "author": "Robbie Cameron",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "short-term-storage": {
+      "src": "/images/services/short-term-storage.webp",
+      "alt": "Short-term storage: Multi-story self storage facility.",
+      "credit": {
+        "label": "Photo by The original uploader was GlenJour at English Wikipedia . ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Multi-story_self_storage_facility.jpg"
+      },
+      "source": {
+        "title": "Multi-story self storage facility.jpg",
+        "author": "The original uploader was GlenJour at English Wikipedia .",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    },
+    "long-term-storage": {
+      "src": "/images/services/long-term-storage.webp",
+      "alt": "Long-term storage: Reebie Storage Warehouse N. Clark St Chicago in 1978.",
+      "credit": {
+        "label": "Photo by Acabashi ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Reebie_Storage_Warehouse_N._Clark_St_Chicago_in_1978.jpg"
+      },
+      "source": {
+        "title": "Reebie Storage Warehouse N. Clark St Chicago in 1978.jpg",
+        "author": "Acabashi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "business-storage": {
+      "src": "/images/services/business-storage.webp",
+      "alt": "Business storage: Suomen Kotteria containers for rent in Hakkila, Vantaa, Finland, 2021.",
+      "credit": {
+        "label": "Photo by Coen ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Suomen_Kotteria_containers_for_rent_in_Hakkila,_Vantaa,_Finland,_2021.jpg"
+      },
+      "source": {
+        "title": "Suomen Kotteria containers for rent in Hakkila, Vantaa, Finland, 2021.jpg",
+        "author": "Coen",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "moving-and-storage": {
+      "src": "/images/services/moving-and-storage.webp",
+      "alt": "Moving and storage: PODS Unit being transported for moving and storage.",
+      "credit": {
+        "label": "Photo by DoulosBen ? CC BY 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:PODS_Unit_being_transported_for_moving_and_storage.jpg"
+      },
+      "source": {
+        "title": "PODS Unit being transported for moving and storage.jpg",
+        "author": "DoulosBen",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      }
+    },
+    "piano-removals": {
+      "src": "/images/services/piano-removals.webp",
+      "alt": "Piano removals: Carrying a piano.",
+      "credit": {
+        "label": "Photo by High Contrast ? CC BY 3.0 de",
+        "href": "https://commons.wikimedia.org/wiki/File:Carrying_a_piano.JPG"
+      },
+      "source": {
+        "title": "Carrying a piano.JPG",
+        "author": "High Contrast",
+        "license": "CC BY 3.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/de/deed.en"
+      }
+    },
+    "antique-removals": {
+      "src": "/images/services/antique-removals.webp",
+      "alt": "Antique removals: Antique Closet (3139773451).",
+      "credit": {
+        "label": "Photo by Serge Melki from Indianapolis, USA ? CC BY 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Antique_Closet_(3139773451).jpg"
+      },
+      "source": {
+        "title": "Antique Closet (3139773451).jpg",
+        "author": "Serge Melki from Indianapolis, USA",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      }
+    },
+    "artwork-moving": {
+      "src": "/images/services/artwork-moving.webp",
+      "alt": "Artwork moving: Preparator (Art Handler).",
+      "credit": {
+        "label": "Photo by Areppertgerber ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Preparator_(Art_Handler).jpg"
+      },
+      "source": {
+        "title": "Preparator (Art Handler).jpg",
+        "author": "Areppertgerber",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "safe-moving": {
+      "src": "/images/services/safe-moving.webp",
+      "alt": "Safe moving: E.E. Ward Employees Moving Safe.",
+      "credit": {
+        "label": "Photo by Pierce's Studio ? Public domain",
+        "href": "https://commons.wikimedia.org/wiki/File:E.E._Ward_Employees_Moving_Safe_-_DPLA_-_d3c8a57796008bfa5270000f5cf697d4.jpg"
+      },
+      "source": {
+        "title": "E.E. Ward Employees Moving Safe - DPLA - d3c8a57796008bfa5270000f5cf697d4.jpg",
+        "author": "Pierce's Studio",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing"
+      }
+    },
+    "heavy-item-moving": {
+      "src": "/images/services/heavy-item-moving.webp",
+      "alt": "Heavy item removals: Heavy equipment operator on Komatsu PC70 moving dredging barge 02.",
+      "credit": {
+        "label": "Photo by FBenjr123 ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Heavy_equipment_operator_on_Komatsu_PC70_moving_dredging_barge_02.jpg"
+      },
+      "source": {
+        "title": "Heavy equipment operator on Komatsu PC70 moving dredging barge 02.jpg",
+        "author": "FBenjr123",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "gym-equipment-moving": {
+      "src": "/images/services/gym-equipment-moving.webp",
+      "alt": "Gym equipment moving: Outdoor gym equipment in Dulwich Park.",
+      "credit": {
+        "label": "Photo by Bill Boaden ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Outdoor_gym_equipment_in_Dulwich_Park_-_geograph.org.uk_-_3855340.jpg"
+      },
+      "source": {
+        "title": "Outdoor gym equipment in Dulwich Park - geograph.org.uk - 3855340.jpg",
+        "author": "Bill Boaden",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "specialist-equipment-moving": {
+      "src": "/images/services/specialist-equipment-moving.webp",
+      "alt": "Specialist equipment moving: Japanese forces assist U S Marines with transporting equipment (8798138).",
+      "credit": {
+        "label": "Photo by U.S. Marine Corps photo by Cpl. Chloe Johnson ? Public domain",
+        "href": "https://commons.wikimedia.org/wiki/File:Japanese_forces_assist_U_S_Marines_with_transporting_equipment_(8798138).jpg"
+      },
+      "source": {
+        "title": "Japanese forces assist U S Marines with transporting equipment (8798138).jpg",
+        "author": "U.S. Marine Corps photo by Cpl. Chloe Johnson",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing"
+      }
+    },
+    "student-removals": {
+      "src": "/images/services/student-removals.webp",
+      "alt": "Student removals: Central State University students and Central State University ROTC cadets moving boxes out of the house to be delivered to (40067dcf-d5a1-444a-8655-8d34be3ac9...",
+      "credit": {
+        "label": "Photo by NPS Photo ? Public domain",
+        "href": "https://commons.wikimedia.org/wiki/File:Central_State_University_students_and_Central_State_University_ROTC_cadets_moving_boxes_out_of_the_house_to_be_delivered_to_(40067dcf-d5a1-444a-8655-8d34be3ac993).jpg"
+      },
+      "source": {
+        "title": "Central State University students and Central State University ROTC cadets moving boxes out of the house to be delivered to (40067dcf-d5a1-444a-8655-8d34be3ac993).jpg",
+        "author": "NPS Photo",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing"
+      }
+    },
+    "same-day-moving": {
+      "src": "/images/services/same-day-moving.webp",
+      "alt": "Same-day moving: Moving truck on a rainy day.",
+      "credit": {
+        "label": "Photo by Waelyasin ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Moving_truck_on_a_rainy_day.jpg"
+      },
+      "source": {
+        "title": "Moving truck on a rainy day.jpg",
+        "author": "Waelyasin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "urgent-moving": {
+      "src": "/images/services/urgent-moving.webp",
+      "alt": "Urgent moving enquiries: Verhuizing.",
+      "credit": {
+        "label": "Photo by User:Quichot ? Public domain",
+        "href": "https://commons.wikimedia.org/wiki/File:Verhuizing.JPG"
+      },
+      "source": {
+        "title": "Verhuizing.JPG",
+        "author": "User:Quichot",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing"
+      }
+    },
+    "weekend-moving": {
+      "src": "/images/services/weekend-moving.webp",
+      "alt": "Weekend moving enquiries: Yellow Iveco moving truck with Forsman branding.",
+      "credit": {
+        "label": "Photo by Kotivalo ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Yellow_Iveco_moving_truck_with_Forsman_branding.jpg"
+      },
+      "source": {
+        "title": "Yellow Iveco moving truck with Forsman branding.jpg",
+        "author": "Kotivalo",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "international-removals": {
+      "src": "/images/services/international-removals.webp",
+      "alt": "International removals enquiries: Moving palletized cargo inside a shipping container.",
+      "credit": {
+        "label": "Photo by Goterrestrial ? CC BY 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Moving_palletized_cargo_inside_a_shipping_container.jpg"
+      },
+      "source": {
+        "title": "Moving palletized cargo inside a shipping container.jpg",
+        "author": "Goterrestrial",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      }
+    },
+    "wardrobe-removals": {
+      "src": "/images/services/wardrobe-removals.webp",
+      "alt": "Wardrobe removals: wooden wardrobe from the Metropolitan Museum of Art collection.",
+      "credit": {
+        "label": "Metropolitan Museum of Art ? CC0",
+        "href": "https://commons.wikimedia.org/wiki/File:Wardrobe_MET_DP235302.jpg"
+      },
+      "source": {
+        "title": "Wardrobe MET DP235302.jpg",
+        "author": "Metropolitan Museum of Art",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      }
+    }
+  },
+  "locations": {
+    "region:central-london": {
+      "src": "/images/locations/region-central-london.webp",
+      "alt": "Photograph from Camden within the Central London area grouping: The Standard London Camden Town Hall Annexe facade at night 2025 dllu.",
+      "credit": {
+        "label": "Photo by Daniel Lu ( User:dllu ) ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:The_Standard_London_Camden_Town_Hall_Annexe_facade_at_night_2025_dllu.jpg"
+      },
+      "source": {
+        "title": "The Standard London Camden Town Hall Annexe facade at night 2025 dllu.jpg",
+        "author": "Daniel Lu ( User:dllu )",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "region:north-london": {
+      "src": "/images/locations/region-north-london.webp",
+      "alt": "Photograph from Enfield Town within the North London area grouping: Church Street in Enfield Town 02.",
+      "credit": {
+        "label": "Photo by James Cracknell ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Church_Street_in_Enfield_Town_02.jpg"
+      },
+      "source": {
+        "title": "Church Street in Enfield Town 02.jpg",
+        "author": "James Cracknell",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "region:north-west-london": {
+      "src": "/images/locations/region-north-west-london.webp",
+      "alt": "Photograph from Harrow within the North West London area grouping: London Borough of Harrow, Road.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Borough_of_Harrow,_Road_-_geograph.org.uk_-_5979521.jpg"
+      },
+      "source": {
+        "title": "London Borough of Harrow, Road - geograph.org.uk - 5979521.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "region:west-london": {
+      "src": "/images/locations/region-west-london.webp",
+      "alt": "Photograph from Hillingdon within the West London area grouping: London Borough of Hillingdon, The Parkway (A312).",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Borough_of_Hillingdon,_The_Parkway_(A312)_-_geograph.org.uk_-_5726503.jpg"
+      },
+      "source": {
+        "title": "London Borough of Hillingdon, The Parkway (A312) - geograph.org.uk - 5726503.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "region:south-west-london": {
+      "src": "/images/locations/region-south-west-london.webp",
+      "alt": "Photograph from Richmond within the South West London area grouping: Still Pond 3, Isabella Plantation, Richmond Park, London, UK - Diliff.",
+      "credit": {
+        "label": "Photo by Diliff ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Still_Pond_3,_Isabella_Plantation,_Richmond_Park,_London,_UK_-_Diliff.jpg"
+      },
+      "source": {
+        "title": "Still Pond 3, Isabella Plantation, Richmond Park, London, UK - Diliff.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "region:south-london": {
+      "src": "/images/locations/region-south-london.webp",
+      "alt": "Photograph from Brixton within the South London area grouping: At London 2025 908 - Brixton tube station.",
+      "credit": {
+        "label": "Photo by Photograph by Mike Peel ( www.mikepeel.net ). ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:At_London_2025_908_-_Brixton_tube_station.jpg"
+      },
+      "source": {
+        "title": "At London 2025 908 - Brixton tube station.jpg",
+        "author": "Photograph by Mike Peel ( www.mikepeel.net ).",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "region:south-east-london": {
+      "src": "/images/locations/region-south-east-london.webp",
+      "alt": "Photograph from Camberwell within the South East London area grouping: Camberwell Green Park, London, March 2025.",
+      "credit": {
+        "label": "Photo by Celsoazevedo ? CC BY 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Camberwell_Green_Park,_London,_March_2025.jpg"
+      },
+      "source": {
+        "title": "Camberwell Green Park, London, March 2025.jpg",
+        "author": "Celsoazevedo",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      }
+    },
+    "region:east-london": {
+      "src": "/images/locations/region-east-london.webp",
+      "alt": "Photograph from Romford within the East London area grouping: Romford outdoor market at Market Place Romford London 02.",
+      "credit": {
+        "label": "Photo by Acabashi ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Romford_outdoor_market_at_Market_Place_Romford_London_02.jpg"
+      },
+      "source": {
+        "title": "Romford outdoor market at Market Place Romford London 02.jpg",
+        "author": "Acabashi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "region:north-east-london": {
+      "src": "/images/locations/region-north-east-london.webp",
+      "alt": "Photograph from Leytonstone within the North East London area grouping: Leytonstone Station.",
+      "credit": {
+        "label": "Photo by Simon from London, United Kingdom ? CC BY 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Leytonstone_Station.jpg"
+      },
+      "source": {
+        "title": "Leytonstone Station.jpg",
+        "author": "Simon from London, United Kingdom",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      }
+    },
+    "borough:central-london:city-of-london": {
+      "src": "/images/locations/borough-central-london-city-of-london.webp",
+      "alt": "Photograph from City of London, London: City of London skyline from London City Hall - Sept 2015 - Crop Aligned.",
+      "credit": {
+        "label": "Photo by User:Colin and Kim Hansen ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:City_of_London_skyline_from_London_City_Hall_-_Sept_2015_-_Crop_Aligned.jpg"
+      },
+      "source": {
+        "title": "City of London skyline from London City Hall - Sept 2015 - Crop Aligned.jpg",
+        "author": "User:Colin and Kim Hansen",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "borough:central-london:westminster": {
+      "src": "/images/locations/borough-central-london-westminster.webp",
+      "alt": "Photograph from Westminster, London: Catedral de Westminster, Londres, Inglaterra, 2022-11-23, DD 55-57 HDR.",
+      "credit": {
+        "label": "Photo by Diego Delso ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Catedral_de_Westminster,_Londres,_Inglaterra,_2022-11-23,_DD_55-57_HDR.jpg"
+      },
+      "source": {
+        "title": "Catedral de Westminster, Londres, Inglaterra, 2022-11-23, DD 55-57 HDR.jpg",
+        "author": "Diego Delso",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "borough:central-london:camden": {
+      "src": "/images/locations/borough-central-london-camden.webp",
+      "alt": "Photograph from Camden, London: St Chad's Street, Camden, London.",
+      "credit": {
+        "label": "Photo by Ian S ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:St_Chad%27s_Street,_Camden,_London_-_geograph.org.uk_-_7032012.jpg"
+      },
+      "source": {
+        "title": "St Chad's Street, Camden, London - geograph.org.uk - 7032012.jpg",
+        "author": "Ian S",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:central-london:islington": {
+      "src": "/images/locations/borough-central-london-islington.webp",
+      "alt": "Photograph from Islington, London: Mural at City of London Academy, Islington.",
+      "credit": {
+        "label": "Photo by David Anstiss ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Mural_at_City_of_London_Academy,_Islington_-_geograph.org.uk_-_3321686.jpg"
+      },
+      "source": {
+        "title": "Mural at City of London Academy, Islington - geograph.org.uk - 3321686.jpg",
+        "author": "David Anstiss",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:central-london:kensington-and-chelsea": {
+      "src": "/images/locations/borough-central-london-kensington-and-chelsea.webp",
+      "alt": "Photograph from Kensington and Chelsea, London: London , Kensington And Chelsea - South Kensington Underground Station.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_,_Kensington_And_Chelsea_-_South_Kensington_Underground_Station_-_geograph.org.uk_-_5058818.jpg"
+      },
+      "source": {
+        "title": "London , Kensington And Chelsea - South Kensington Underground Station - geograph.org.uk - 5058818.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:north-london:barnet": {
+      "src": "/images/locations/borough-north-london-barnet.webp",
+      "alt": "Photograph from Barnet, London: London Borough of Barnet , Grassy Field.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Borough_of_Barnet_,_Grassy_Field_-_geograph.org.uk_-_5979775.jpg"
+      },
+      "source": {
+        "title": "London Borough of Barnet , Grassy Field - geograph.org.uk - 5979775.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:north-london:enfield": {
+      "src": "/images/locations/borough-north-london-enfield.webp",
+      "alt": "Photograph from Enfield, London: 1950 Ford V8-Pilot 3.6L at Capel Manor, Enfield, London, England.",
+      "credit": {
+        "label": "Photo by Acabashi ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:1950_Ford_V8-Pilot_3.6L_at_Capel_Manor,_Enfield,_London,_England.jpg"
+      },
+      "source": {
+        "title": "1950 Ford V8-Pilot 3.6L at Capel Manor, Enfield, London, England.jpg",
+        "author": "Acabashi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "borough:north-london:haringey": {
+      "src": "/images/locations/borough-north-london-haringey.webp",
+      "alt": "Photograph from Haringey, London: Prunus tree blossom in Haringey, London 3.",
+      "credit": {
+        "label": "Photo by Acabashi ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Prunus_tree_blossom_in_Haringey,_London_3.jpg"
+      },
+      "source": {
+        "title": "Prunus tree blossom in Haringey, London 3.jpg",
+        "author": "Acabashi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "borough:north-west-london:brent": {
+      "src": "/images/locations/borough-north-west-london-brent.webp",
+      "alt": "Photograph from Brent, London: London Borough of Brent, Nash Way.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Borough_of_Brent,_Nash_Way_-_geograph.org.uk_-_5979668.jpg"
+      },
+      "source": {
+        "title": "London Borough of Brent, Nash Way - geograph.org.uk - 5979668.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:north-west-london:harrow": {
+      "src": "/images/locations/borough-north-west-london-harrow.webp",
+      "alt": "Photograph from Harrow, London: London Borough of Harrow, Driveway.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Borough_of_Harrow,_Driveway_-_geograph.org.uk_-_5979557.jpg"
+      },
+      "source": {
+        "title": "London Borough of Harrow, Driveway - geograph.org.uk - 5979557.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:west-london:hillingdon": {
+      "src": "/images/locations/borough-west-london-hillingdon.webp",
+      "alt": "Photograph from Hillingdon, London: London Borough of Hillingdon, M4 Motorway.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Borough_of_Hillingdon,_M4_Motorway_-_geograph.org.uk_-_5726470.jpg"
+      },
+      "source": {
+        "title": "London Borough of Hillingdon, M4 Motorway - geograph.org.uk - 5726470.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:west-london:ealing": {
+      "src": "/images/locations/borough-west-london-ealing.webp",
+      "alt": "Photograph from Ealing, London: London Borough of Ealing , The Parkway (A312).",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Borough_of_Ealing_,_The_Parkway_(A312)_-_geograph.org.uk_-_5726506.jpg"
+      },
+      "source": {
+        "title": "London Borough of Ealing , The Parkway (A312) - geograph.org.uk - 5726506.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:west-london:hammersmith-and-fulham": {
+      "src": "/images/locations/borough-west-london-hammersmith-and-fulham.webp",
+      "alt": "Photograph from Hammersmith and Fulham, London: London , Hammersmith And Fulham - Parsons Green Lane.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_,_Hammersmith_And_Fulham_-_Parsons_Green_Lane_-_geograph.org.uk_-_5058851.jpg"
+      },
+      "source": {
+        "title": "London , Hammersmith And Fulham - Parsons Green Lane - geograph.org.uk - 5058851.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:west-london:hounslow": {
+      "src": "/images/locations/borough-west-london-hounslow.webp",
+      "alt": "Photograph from Hounslow, London: London , Hounslow - City Scenery.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_,_Hounslow_-_City_Scenery_-_geograph.org.uk_-_5118429.jpg"
+      },
+      "source": {
+        "title": "London , Hounslow - City Scenery - geograph.org.uk - 5118429.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:south-west-london:richmond-upon-thames": {
+      "src": "/images/locations/borough-south-west-london-richmond-upon-thames.webp",
+      "alt": "Photograph from Richmond upon Thames, London: London , Richmond Upon Thames - Marlow Crescent.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_,_Richmond_Upon_Thames_-_Marlow_Crescent_-_geograph.org.uk_-_8028633.jpg"
+      },
+      "source": {
+        "title": "London , Richmond Upon Thames - Marlow Crescent - geograph.org.uk - 8028633.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:south-west-london:kingston-upon-thames": {
+      "src": "/images/locations/borough-south-west-london-kingston-upon-thames.webp",
+      "alt": "Photograph from Kingston upon Thames, London: Kingston-upon-Thames - London Buses (geograph 7672593).",
+      "credit": {
+        "label": "Photo by Colin Smith ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Kingston-upon-Thames_-_London_Buses_(geograph_7672593).jpg"
+      },
+      "source": {
+        "title": "Kingston-upon-Thames - London Buses (geograph 7672593).jpg",
+        "author": "Colin Smith",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:south-west-london:merton": {
+      "src": "/images/locations/borough-south-west-london-merton.webp",
+      "alt": "Photograph from Merton, London: London Borough of Merton , Wimbledon Park Scenery.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Borough_of_Merton_,_Wimbledon_Park_Scenery_-_geograph.org.uk_-_5893228.jpg"
+      },
+      "source": {
+        "title": "London Borough of Merton , Wimbledon Park Scenery - geograph.org.uk - 5893228.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:south-west-london:wandsworth": {
+      "src": "/images/locations/borough-south-west-london-wandsworth.webp",
+      "alt": "Photograph from Wandsworth, London: London , Wandsworth - A3205 Roundabout.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_,_Wandsworth_-_A3205_Roundabout_-_geograph.org.uk_-_2409495.jpg"
+      },
+      "source": {
+        "title": "London , Wandsworth - A3205 Roundabout - geograph.org.uk - 2409495.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:south-london:sutton": {
+      "src": "/images/locations/borough-south-london-sutton.webp",
+      "alt": "Photograph from Sutton, London: Sutton, Surrey London Sutton High Street -.",
+      "credit": {
+        "label": "Photo by A P Monblat ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Sutton,_Surrey_London_Sutton_High_Street_-.JPG"
+      },
+      "source": {
+        "title": "Sutton, Surrey London Sutton High Street -.JPG",
+        "author": "A P Monblat",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "borough:south-london:croydon": {
+      "src": "/images/locations/borough-south-london-croydon.webp",
+      "alt": "Photograph from Croydon, London: London Road, Broad Green, Croydon.",
+      "credit": {
+        "label": "Photo by Peter Trimming ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Road,_Broad_Green,_Croydon_-_geograph.org.uk_-_2577618.jpg"
+      },
+      "source": {
+        "title": "London Road, Broad Green, Croydon - geograph.org.uk - 2577618.jpg",
+        "author": "Peter Trimming",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:south-london:lambeth": {
+      "src": "/images/locations/borough-south-london-lambeth.webp",
+      "alt": "Photograph from Lambeth, London: View from Vauxhall Bridge - Victoria Tower, Millbank Tower, London Eye, Lambeth Bridge, St Thomas' Hospital, Lambeth Palace.",
+      "credit": {
+        "label": "Photo by Ввласенко ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:View_from_Vauxhall_Bridge_-_Victoria_Tower,_Millbank_Tower,_London_Eye,_Lambeth_Bridge,_St_Thomas%27_Hospital,_Lambeth_Palace.jpg"
+      },
+      "source": {
+        "title": "View from Vauxhall Bridge - Victoria Tower, Millbank Tower, London Eye, Lambeth Bridge, St Thomas' Hospital, Lambeth Palace.jpg",
+        "author": "Ввласенко",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "borough:south-east-london:southwark": {
+      "src": "/images/locations/borough-south-east-london-southwark.webp",
+      "alt": "Photograph from Southwark, London: London , Southwark - Bicycle Rack.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_,_Southwark_-_Bicycle_Rack_-_geograph.org.uk_-_4814561.jpg"
+      },
+      "source": {
+        "title": "London , Southwark - Bicycle Rack - geograph.org.uk - 4814561.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:south-east-london:lewisham": {
+      "src": "/images/locations/borough-south-east-london-lewisham.webp",
+      "alt": "Photograph from Lewisham, London: London , Lewisham - River Thames.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_,_Lewisham_-_River_Thames_-_geograph.org.uk_-_4068119.jpg"
+      },
+      "source": {
+        "title": "London , Lewisham - River Thames - geograph.org.uk - 4068119.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:south-east-london:greenwich": {
+      "src": "/images/locations/borough-south-east-london-greenwich.webp",
+      "alt": "Photograph from Greenwich, London: St Alfege Church 2, Greenwich, London, UK - Diliff.",
+      "credit": {
+        "label": "Photo by Diliff ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:St_Alfege_Church_2,_Greenwich,_London,_UK_-_Diliff.jpg"
+      },
+      "source": {
+        "title": "St Alfege Church 2, Greenwich, London, UK - Diliff.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "borough:south-east-london:bexley": {
+      "src": "/images/locations/borough-south-east-london-bexley.webp",
+      "alt": "Photograph from Bexley, London: London Loop Walk No. 2, Bexley, Kent.",
+      "credit": {
+        "label": "Photo by Christine Matthews ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Loop_Walk_No._2,_Bexley,_Kent_-_geograph.org.uk_-_4934683.jpg"
+      },
+      "source": {
+        "title": "London Loop Walk No. 2, Bexley, Kent - geograph.org.uk - 4934683.jpg",
+        "author": "Christine Matthews",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:south-east-london:bromley": {
+      "src": "/images/locations/borough-south-east-london-bromley.webp",
+      "alt": "Photograph from Bromley, London: London Road, Bromley.",
+      "credit": {
+        "label": "Photo by Bill Boaden ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Road,_Bromley_-_geograph.org.uk_-_4716489.jpg"
+      },
+      "source": {
+        "title": "London Road, Bromley - geograph.org.uk - 4716489.jpg",
+        "author": "Bill Boaden",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:east-london:tower-hamlets": {
+      "src": "/images/locations/borough-east-london-tower-hamlets.webp",
+      "alt": "Photograph from Tower Hamlets, London: London , Tower Hamlets - Tower Wharf.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_,_Tower_Hamlets_-_Tower_Wharf_-_geograph.org.uk_-_5058840.jpg"
+      },
+      "source": {
+        "title": "London , Tower Hamlets - Tower Wharf - geograph.org.uk - 5058840.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:east-london:newham": {
+      "src": "/images/locations/borough-east-london-newham.webp",
+      "alt": "Photograph from Newham, London: London , Newham - City Scenery.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_,_Newham_-_City_Scenery_-_geograph.org.uk_-_4064055.jpg"
+      },
+      "source": {
+        "title": "London , Newham - City Scenery - geograph.org.uk - 4064055.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:east-london:barking-and-dagenham": {
+      "src": "/images/locations/borough-east-london-barking-and-dagenham.webp",
+      "alt": "Photograph from Barking and Dagenham, London: Barking and Dagenham , industrial landscape.",
+      "credit": {
+        "label": "Photo by Jim Osley ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Barking_and_Dagenham_,_industrial_landscape_-_geograph.org.uk_-_7541844.jpg"
+      },
+      "source": {
+        "title": "Barking and Dagenham , industrial landscape - geograph.org.uk - 7541844.jpg",
+        "author": "Jim Osley",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:east-london:havering": {
+      "src": "/images/locations/borough-east-london-havering.webp",
+      "alt": "Photograph from Havering, London: On the London Loop at Havering-atte-Bower.",
+      "credit": {
+        "label": "Photo by Peter S ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:On_the_London_Loop_at_Havering-atte-Bower_-_geograph.org.uk_-_6649680.jpg"
+      },
+      "source": {
+        "title": "On the London Loop at Havering-atte-Bower - geograph.org.uk - 6649680.jpg",
+        "author": "Peter S",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:north-east-london:hackney": {
+      "src": "/images/locations/borough-north-east-london-hackney.webp",
+      "alt": "Photograph from Hackney, London: Hackney Central railway station MMB 08 313109.",
+      "credit": {
+        "label": "Photo by mattbuck ( category ) ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Hackney_Central_railway_station_MMB_08_313109.jpg"
+      },
+      "source": {
+        "title": "Hackney Central railway station MMB 08 313109.jpg",
+        "author": "mattbuck ( category )",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "borough:north-east-london:waltham-forest": {
+      "src": "/images/locations/borough-north-east-london-waltham-forest.webp",
+      "alt": "Photograph from Waltham Forest, London: London Borough of Waltham Forest Sign.",
+      "credit": {
+        "label": "Photo by David Anstiss ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Borough_of_Waltham_Forest_Sign_-_geograph.org.uk_-_3042138.jpg"
+      },
+      "source": {
+        "title": "London Borough of Waltham Forest Sign - geograph.org.uk - 3042138.jpg",
+        "author": "David Anstiss",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "borough:north-east-london:redbridge": {
+      "src": "/images/locations/borough-north-east-london-redbridge.webp",
+      "alt": "Photograph from Redbridge, London: Redbridge Lane East, Redbridge.",
+      "credit": {
+        "label": "Photo by Stacey Harris ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Redbridge_Lane_East,_Redbridge_-_geograph.org.uk_-_2382434.jpg"
+      },
+      "source": {
+        "title": "Redbridge Lane East, Redbridge - geograph.org.uk - 2382434.jpg",
+        "author": "Stacey Harris",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:central-london:mayfair": {
+      "src": "/images/locations/neighbourhood-central-london-mayfair.webp",
+      "alt": "Photograph from Mayfair, London: Mayfair Library - London, UK - DSC06803.",
+      "credit": {
+        "label": "Photo by Daderot ? CC0",
+        "href": "https://commons.wikimedia.org/wiki/File:Mayfair_Library_-_London,_UK_-_DSC06803.jpg"
+      },
+      "source": {
+        "title": "Mayfair Library - London, UK - DSC06803.jpg",
+        "author": "Daderot",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      }
+    },
+    "neighbourhood:central-london:soho": {
+      "src": "/images/locations/neighbourhood-central-london-soho.webp",
+      "alt": "Photograph from Soho, London: Soho, London, United Kingdom (Unsplash -tYxpY7thu4).",
+      "credit": {
+        "label": "Photo by Jamie Street jamie452 ? CC0",
+        "href": "https://commons.wikimedia.org/wiki/File:Soho,_London,_United_Kingdom_(Unsplash_-tYxpY7thu4).jpg"
+      },
+      "source": {
+        "title": "Soho, London, United Kingdom (Unsplash -tYxpY7thu4).jpg",
+        "author": "Jamie Street jamie452",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      }
+    },
+    "neighbourhood:central-london:covent-garden": {
+      "src": "/images/locations/neighbourhood-central-london-covent-garden.webp",
+      "alt": "Photograph from Covent Garden, London: London, Covent Garden -- 2016 -- 4884.",
+      "credit": {
+        "label": "Photo by Dietmar Rabich ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London,_Covent_Garden_--_2016_--_4884.jpg"
+      },
+      "source": {
+        "title": "London, Covent Garden -- 2016 -- 4884.jpg",
+        "author": "Dietmar Rabich",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:central-london:marylebone": {
+      "src": "/images/locations/neighbourhood-central-london-marylebone.webp",
+      "alt": "Photograph from Marylebone, London: St Marylebone Parish Church Interior 1, London, UK - Diliff.",
+      "credit": {
+        "label": "Photo by Diliff ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:St_Marylebone_Parish_Church_Interior_1,_London,_UK_-_Diliff.jpg"
+      },
+      "source": {
+        "title": "St Marylebone Parish Church Interior 1, London, UK - Diliff.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:central-london:fitzrovia": {
+      "src": "/images/locations/neighbourhood-central-london-fitzrovia.webp",
+      "alt": "Photograph from Fitzrovia, London: Fitzrovia Chapel 2017-09-17-6.",
+      "credit": {
+        "label": "Photo by Colin ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Fitzrovia_Chapel_2017-09-17-6.jpg"
+      },
+      "source": {
+        "title": "Fitzrovia Chapel 2017-09-17-6.jpg",
+        "author": "Colin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:central-london:holborn": {
+      "src": "/images/locations/neighbourhood-central-london-holborn.webp",
+      "alt": "Photograph from Holborn, London: St Andrew, Holborn, London, UK 1 - Diliff.",
+      "credit": {
+        "label": "Photo by Diliff ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:St_Andrew,_Holborn,_London,_UK_1_-_Diliff.jpg"
+      },
+      "source": {
+        "title": "St Andrew, Holborn, London, UK 1 - Diliff.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:central-london:bloomsbury": {
+      "src": "/images/locations/neighbourhood-central-london-bloomsbury.webp",
+      "alt": "Photograph from Bloomsbury, London: At London 2025 912 - 23 Gower Place, Bloomsbury.",
+      "credit": {
+        "label": "Photo by Photograph by Mike Peel ( www.mikepeel.net ). ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:At_London_2025_912_-_23_Gower_Place,_Bloomsbury.jpg"
+      },
+      "source": {
+        "title": "At London 2025 912 - 23 Gower Place, Bloomsbury.jpg",
+        "author": "Photograph by Mike Peel ( www.mikepeel.net ).",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:central-london:pimlico": {
+      "src": "/images/locations/neighbourhood-central-london-pimlico.webp",
+      "alt": "Photograph from Pimlico, London: St James the Less Windows & Arches, Pimlico, London, UK - Diliff.",
+      "credit": {
+        "label": "Photo by Diliff ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:St_James_the_Less_Windows_%26_Arches,_Pimlico,_London,_UK_-_Diliff.jpg"
+      },
+      "source": {
+        "title": "St James the Less Windows & Arches, Pimlico, London, UK - Diliff.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:central-london:victoria": {
+      "src": "/images/locations/neighbourhood-central-london-victoria.webp",
+      "alt": "Photograph from Victoria, London: Victoria Memorial London 2020 Morning 02.",
+      "credit": {
+        "label": "Photo by Julian Herzog ( Website ) ? CC BY 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Victoria_Memorial_London_2020_Morning_02.jpg"
+      },
+      "source": {
+        "title": "Victoria Memorial London 2020 Morning 02.jpg",
+        "author": "Julian Herzog ( Website )",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      }
+    },
+    "neighbourhood:central-london:belgravia": {
+      "src": "/images/locations/neighbourhood-central-london-belgravia.webp",
+      "alt": "Photograph from Belgravia, London: Peter Sellers at home in Belgravia, London, 1973.",
+      "credit": {
+        "label": "Photo by Photograph by Allan Warren Derivative by Keraunoscopia ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Peter_Sellers_at_home_in_Belgravia,_London,_1973.jpg"
+      },
+      "source": {
+        "title": "Peter Sellers at home in Belgravia, London, 1973.jpg",
+        "author": "Photograph by Allan Warren Derivative by Keraunoscopia",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:central-london:knightsbridge": {
+      "src": "/images/locations/neighbourhood-central-london-knightsbridge.webp",
+      "alt": "Photograph from Knightsbridge, London: St Paul's, Onslow Square Nave, Knightsbridge, London, UK - Diliff.",
+      "credit": {
+        "label": "Photo by Diliff ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:St_Paul%27s,_Onslow_Square_Nave,_Knightsbridge,_London,_UK_-_Diliff.jpg"
+      },
+      "source": {
+        "title": "St Paul's, Onslow Square Nave, Knightsbridge, London, UK - Diliff.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:central-london:chelsea": {
+      "src": "/images/locations/neighbourhood-central-london-chelsea.webp",
+      "alt": "Photograph from Chelsea, London: London , Chelsea - Gunter Grove.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_,_Chelsea_-_Gunter_Grove_-_geograph.org.uk_-_2408961.jpg"
+      },
+      "source": {
+        "title": "London , Chelsea - Gunter Grove - geograph.org.uk - 2408961.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:central-london:kensington": {
+      "src": "/images/locations/neighbourhood-central-london-kensington.webp",
+      "alt": "Photograph from Kensington, London: Palacio de Kensington, Londres, Inglaterra, 2022-11-25, DD 29.",
+      "credit": {
+        "label": "Photo by Diego Delso ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Palacio_de_Kensington,_Londres,_Inglaterra,_2022-11-25,_DD_29.jpg"
+      },
+      "source": {
+        "title": "Palacio de Kensington, Londres, Inglaterra, 2022-11-25, DD 29.jpg",
+        "author": "Diego Delso",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:central-london:south-kensington": {
+      "src": "/images/locations/neighbourhood-central-london-south-kensington.webp",
+      "alt": "Photograph from South Kensington, London: South Kensington Underground Station (August 2023) 03.",
+      "credit": {
+        "label": "Photo by DiscoA340 ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:South_Kensington_Underground_Station_(August_2023)_03.jpg"
+      },
+      "source": {
+        "title": "South Kensington Underground Station (August 2023) 03.jpg",
+        "author": "DiscoA340",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:central-london:notting-hill": {
+      "src": "/images/locations/neighbourhood-central-london-notting-hill.webp",
+      "alt": "Photograph from Notting Hill, London: Coronet Cinema, Notting Hill Gate 01.",
+      "credit": {
+        "label": "Photo by Edwardx ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Coronet_Cinema,_Notting_Hill_Gate_01.JPG"
+      },
+      "source": {
+        "title": "Coronet Cinema, Notting Hill Gate 01.JPG",
+        "author": "Edwardx",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:central-london:paddington": {
+      "src": "/images/locations/neighbourhood-central-london-paddington.webp",
+      "alt": "Photograph from Paddington, London: Paddington station MMB 58.",
+      "credit": {
+        "label": "Photo by mattbuck ( category ) ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Paddington_station_MMB_58.jpg"
+      },
+      "source": {
+        "title": "Paddington station MMB 58.jpg",
+        "author": "mattbuck ( category )",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:central-london:clerkenwell": {
+      "src": "/images/locations/neighbourhood-central-london-clerkenwell.webp",
+      "alt": "Photograph from Clerkenwell, London: Clerkenwell Close, Clerkenwell, London (geograph 2688274).",
+      "credit": {
+        "label": "Photo by Peter Trimming ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Clerkenwell_Close,_Clerkenwell,_London_(geograph_2688274).jpg"
+      },
+      "source": {
+        "title": "Clerkenwell Close, Clerkenwell, London (geograph 2688274).jpg",
+        "author": "Peter Trimming",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:central-london:angel": {
+      "src": "/images/locations/neighbourhood-central-london-angel.webp",
+      "alt": "Photograph from Angel, London: Angel on bridge of angels in Rome.",
+      "credit": {
+        "label": "Photo by Livioandronico2013 ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Angel_on_bridge_of_angels_in_Rome.JPG"
+      },
+      "source": {
+        "title": "Angel on bridge of angels in Rome.JPG",
+        "author": "Livioandronico2013",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:central-london:barbican": {
+      "src": "/images/locations/neighbourhood-central-london-barbican.webp",
+      "alt": "Photograph from Barbican, London: Barbican Estate City of London 2026 01.",
+      "credit": {
+        "label": "Photo by Julian Herzog ( Website ) ? CC BY 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Barbican_Estate_City_of_London_2026_01.jpg"
+      },
+      "source": {
+        "title": "Barbican Estate City of London 2026 01.jpg",
+        "author": "Julian Herzog ( Website )",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      }
+    },
+    "neighbourhood:north-london:hampstead": {
+      "src": "/images/locations/neighbourhood-north-london-hampstead.webp",
+      "alt": "Photograph from Hampstead, London: 1 Hampstead Hill Gardens Hampstead London NW3 2PH.",
+      "credit": {
+        "label": "Photo by Spudgun67 ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:1_Hampstead_Hill_Gardens_Hampstead_London_NW3_2PH.jpg"
+      },
+      "source": {
+        "title": "1 Hampstead Hill Gardens Hampstead London NW3 2PH.jpg",
+        "author": "Spudgun67",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-london:finchley": {
+      "src": "/images/locations/neighbourhood-north-london-finchley.webp",
+      "alt": "Photograph from Finchley, London: Airflush urinal at Waitrose in Finchley, London England.",
+      "credit": {
+        "label": "Photo by Acabashi ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Airflush_urinal_at_Waitrose_in_Finchley,_London_England.jpg"
+      },
+      "source": {
+        "title": "Airflush urinal at Waitrose in Finchley, London England.jpg",
+        "author": "Acabashi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-london:hendon": {
+      "src": "/images/locations/neighbourhood-north-london-hendon.webp",
+      "alt": "Photograph from Hendon, London: Hendon Fire station, Hendon, October 2024 01.",
+      "credit": {
+        "label": "Photo by No Swan So Fine ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Hendon_Fire_station,_Hendon,_October_2024_01.jpg"
+      },
+      "source": {
+        "title": "Hendon Fire station, Hendon, October 2024 01.jpg",
+        "author": "No Swan So Fine",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-london:golders-green": {
+      "src": "/images/locations/neighbourhood-north-london-golders-green.webp",
+      "alt": "Photograph from Golders Green, London: Sir Sigmund Sternberg grave in Golders Green Jewish Cemetery London.",
+      "credit": {
+        "label": "Photo by Hopeandreason ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Sir_Sigmund_Sternberg_grave_in_Golders_Green_Jewish_Cemetery_London.jpg"
+      },
+      "source": {
+        "title": "Sir Sigmund Sternberg grave in Golders Green Jewish Cemetery London.jpg",
+        "author": "Hopeandreason",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-london:edgware": {
+      "src": "/images/locations/neighbourhood-north-london-edgware.webp",
+      "alt": "Photograph from Edgware, London: Edgware tube station 038.",
+      "credit": {
+        "label": "Photo by Panhard ? CC BY 2.5",
+        "href": "https://commons.wikimedia.org/wiki/File:Edgware_tube_station_038.jpg"
+      },
+      "source": {
+        "title": "Edgware tube station 038.jpg",
+        "author": "Panhard",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+      }
+    },
+    "neighbourhood:north-london:mill-hill": {
+      "src": "/images/locations/neighbourhood-north-london-mill-hill.webp",
+      "alt": "Photograph from Mill Hill, London: The Mount School, Milespit Hill, Mill Hill, October 2022.",
+      "credit": {
+        "label": "Photo by No Swan So Fine ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:The_Mount_School,_Milespit_Hill,_Mill_Hill,_October_2022.jpg"
+      },
+      "source": {
+        "title": "The Mount School, Milespit Hill, Mill Hill, October 2022.jpg",
+        "author": "No Swan So Fine",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-london:enfield-town": {
+      "src": "/images/locations/neighbourhood-north-london-enfield-town.webp",
+      "alt": "Photograph from Enfield Town, London: Enfield Town Station (9).",
+      "credit": {
+        "label": "Photo by James Cracknell ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Enfield_Town_Station_(9).jpg"
+      },
+      "source": {
+        "title": "Enfield Town Station (9).jpg",
+        "author": "James Cracknell",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-london:edmonton": {
+      "src": "/images/locations/neighbourhood-north-london-edmonton.webp",
+      "alt": "Photograph from Edmonton, London: Edmonton City Hall, Edmonton, Alberta, 2026-09-27 04.",
+      "credit": {
+        "label": "Photo by Chris Woodrich ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Edmonton_City_Hall,_Edmonton,_Alberta,_2026-09-27_04.jpg"
+      },
+      "source": {
+        "title": "Edmonton City Hall, Edmonton, Alberta, 2026-09-27 04.jpg",
+        "author": "Chris Woodrich",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-london:palmers-green": {
+      "src": "/images/locations/neighbourhood-north-london-palmers-green.webp",
+      "alt": "Photograph from Palmers Green, London: Nat West Bank, Palmers Green.",
+      "credit": {
+        "label": "Photo by Des Blenkinsopp ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Nat_West_Bank,_Palmers_Green_-_geograph.org.uk_-_5929568.jpg"
+      },
+      "source": {
+        "title": "Nat West Bank, Palmers Green - geograph.org.uk - 5929568.jpg",
+        "author": "Des Blenkinsopp",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:north-london:southgate": {
+      "src": "/images/locations/neighbourhood-north-london-southgate.webp",
+      "alt": "Photograph from Southgate, London: Southgate Station (6).",
+      "credit": {
+        "label": "Photo by James Cracknell ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Southgate_Station_(6).jpg"
+      },
+      "source": {
+        "title": "Southgate Station (6).jpg",
+        "author": "James Cracknell",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-london:muswell-hill": {
+      "src": "/images/locations/neighbourhood-north-london-muswell-hill.webp",
+      "alt": "Photograph from Muswell Hill, London: 5 and 7 Muswell Hill, London, January 2024.",
+      "credit": {
+        "label": "Photo by No Swan So Fine ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:5_and_7_Muswell_Hill,_London,_January_2024.jpg"
+      },
+      "source": {
+        "title": "5 and 7 Muswell Hill, London, January 2024.jpg",
+        "author": "No Swan So Fine",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-london:crouch-end": {
+      "src": "/images/locations/neighbourhood-north-london-crouch-end.webp",
+      "alt": "Photograph from Crouch End, London: Highgate Tennis Club, Crouch End, London cooler render.",
+      "credit": {
+        "label": "Photo by Acabashi ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Highgate_Tennis_Club,_Crouch_End,_London_cooler_render.jpg"
+      },
+      "source": {
+        "title": "Highgate Tennis Club, Crouch End, London cooler render.jpg",
+        "author": "Acabashi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-london:wood-green": {
+      "src": "/images/locations/neighbourhood-north-london-wood-green.webp",
+      "alt": "Photograph from Wood Green, London: Wood Green underground station 02.",
+      "credit": {
+        "label": "Photo by Philafrenzy ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Wood_Green_underground_station_02.jpg"
+      },
+      "source": {
+        "title": "Wood Green underground station 02.jpg",
+        "author": "Philafrenzy",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-london:tottenham": {
+      "src": "/images/locations/neighbourhood-north-london-tottenham.webp",
+      "alt": "Photograph from Tottenham, London: Window cleaning block of flats Tottenham, London, England 1.",
+      "credit": {
+        "label": "Photo by Acabashi ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Window_cleaning_block_of_flats_Tottenham,_London,_England_1.jpg"
+      },
+      "source": {
+        "title": "Window cleaning block of flats Tottenham, London, England 1.jpg",
+        "author": "Acabashi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-west-london:wembley": {
+      "src": "/images/locations/neighbourhood-north-west-london-wembley.webp",
+      "alt": "Photograph from Wembley, London: London , Wembley - Wembley Stadium.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_,_Wembley_-_Wembley_Stadium_-_geograph.org.uk_-_2112482.jpg"
+      },
+      "source": {
+        "title": "London , Wembley - Wembley Stadium - geograph.org.uk - 2112482.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:north-west-london:kilburn": {
+      "src": "/images/locations/neighbourhood-north-west-london-kilburn.webp",
+      "alt": "Photograph from Kilburn, London: St Augustine's Church, Kilburn Interior 4, London, UK - Diliff.",
+      "credit": {
+        "label": "Photo by Diliff ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:St_Augustine%27s_Church,_Kilburn_Interior_4,_London,_UK_-_Diliff.jpg"
+      },
+      "source": {
+        "title": "St Augustine's Church, Kilburn Interior 4, London, UK - Diliff.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:north-west-london:willesden": {
+      "src": "/images/locations/neighbourhood-north-west-london-willesden.webp",
+      "alt": "Photograph from Willesden, London: Willesden Lane, London (January 2024) 01.",
+      "credit": {
+        "label": "Photo by DiscoA340 ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Willesden_Lane,_London_(January_2024)_01.jpg"
+      },
+      "source": {
+        "title": "Willesden Lane, London (January 2024) 01.jpg",
+        "author": "DiscoA340",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-west-london:neasden": {
+      "src": "/images/locations/neighbourhood-north-west-london-neasden.webp",
+      "alt": "Photograph from Neasden, London: Neasden Lane, London NW10.",
+      "credit": {
+        "label": "Photo by Stacey Harris ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Neasden_Lane,_London_NW10_-_geograph.org.uk_-_2276884.jpg"
+      },
+      "source": {
+        "title": "Neasden Lane, London NW10 - geograph.org.uk - 2276884.jpg",
+        "author": "Stacey Harris",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:north-west-london:harlesden": {
+      "src": "/images/locations/neighbourhood-north-west-london-harlesden.webp",
+      "alt": "Photograph from Harlesden, London: Harlesden station.",
+      "credit": {
+        "label": "Photo by Marathon ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Harlesden_station_-_geograph.org.uk_-_4086431.jpg"
+      },
+      "source": {
+        "title": "Harlesden station - geograph.org.uk - 4086431.jpg",
+        "author": "Marathon",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:north-west-london:kingsbury": {
+      "src": "/images/locations/neighbourhood-north-west-london-kingsbury.webp",
+      "alt": "Photograph from Kingsbury, London: Kingsbury Road, London NW9.",
+      "credit": {
+        "label": "Photo by Stacey Harris ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Kingsbury_Road,_London_NW9_-_geograph.org.uk_-_2276895.jpg"
+      },
+      "source": {
+        "title": "Kingsbury Road, London NW9 - geograph.org.uk - 2276895.jpg",
+        "author": "Stacey Harris",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:north-west-london:kenton": {
+      "src": "/images/locations/neighbourhood-north-west-london-kenton.webp",
+      "alt": "Photograph from Kenton, London: Kenton Lane, Kenton.",
+      "credit": {
+        "label": "Photo by Stacey Harris ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Kenton_Lane,_Kenton_-_geograph.org.uk_-_3179746.jpg"
+      },
+      "source": {
+        "title": "Kenton Lane, Kenton - geograph.org.uk - 3179746.jpg",
+        "author": "Stacey Harris",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:north-west-london:harrow": {
+      "src": "/images/locations/neighbourhood-north-west-london-harrow.webp",
+      "alt": "Photograph from Harrow, London: London Borough of Harrow, Driveway.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Borough_of_Harrow,_Driveway_-_geograph.org.uk_-_5979559.jpg"
+      },
+      "source": {
+        "title": "London Borough of Harrow, Driveway - geograph.org.uk - 5979559.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:north-west-london:pinner": {
+      "src": "/images/locations/neighbourhood-north-west-london-pinner.webp",
+      "alt": "Photograph from Pinner, London: Eastcote Road, Pinner.",
+      "credit": {
+        "label": "Photo by Des Blenkinsopp ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Eastcote_Road,_Pinner_-_geograph.org.uk_-_5981597.jpg"
+      },
+      "source": {
+        "title": "Eastcote Road, Pinner - geograph.org.uk - 5981597.jpg",
+        "author": "Des Blenkinsopp",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:north-west-london:stanmore": {
+      "src": "/images/locations/neighbourhood-north-west-london-stanmore.webp",
+      "alt": "Photograph from Stanmore, London: Stanmore Platform 1 and 3.",
+      "credit": {
+        "label": "Photo by TheFrog001 ? CC0",
+        "href": "https://commons.wikimedia.org/wiki/File:Stanmore_Platform_1_and_3.jpg"
+      },
+      "source": {
+        "title": "Stanmore Platform 1 and 3.jpg",
+        "author": "TheFrog001",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      }
+    },
+    "neighbourhood:north-west-london:queensbury": {
+      "src": "/images/locations/neighbourhood-north-west-london-queensbury.webp",
+      "alt": "Photograph from Queensbury, London: Green at Queensbury.",
+      "credit": {
+        "label": "Photo by Marathon ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Green_at_Queensbury_-_geograph.org.uk_-_4719156.jpg"
+      },
+      "source": {
+        "title": "Green at Queensbury - geograph.org.uk - 4719156.jpg",
+        "author": "Marathon",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:west-london:uxbridge": {
+      "src": "/images/locations/neighbourhood-west-london-uxbridge.webp",
+      "alt": "Photograph from Uxbridge, London: Cleveland Road, Uxbridge (August 2023).",
+      "credit": {
+        "label": "Photo by DiscoA340 ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Cleveland_Road,_Uxbridge_(August_2023).jpg"
+      },
+      "source": {
+        "title": "Cleveland Road, Uxbridge (August 2023).jpg",
+        "author": "DiscoA340",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:west-london:hayes": {
+      "src": "/images/locations/neighbourhood-west-london-hayes.webp",
+      "alt": "Photograph from Hayes, London: St Mary the Virgin Church, Hayes.",
+      "credit": {
+        "label": "Photo by David Anstiss ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:St_Mary_the_Virgin_Church,_Hayes_-_geograph.org.uk_-_2578496.jpg"
+      },
+      "source": {
+        "title": "St Mary the Virgin Church, Hayes - geograph.org.uk - 2578496.jpg",
+        "author": "David Anstiss",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:west-london:west-drayton": {
+      "src": "/images/locations/neighbourhood-west-london-west-drayton.webp",
+      "alt": "Photograph from West Drayton, London: West Drayton Southlands 2.",
+      "credit": {
+        "label": "Photo by Jones44444 ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:West_Drayton_Southlands_2.jpg"
+      },
+      "source": {
+        "title": "West Drayton Southlands 2.jpg",
+        "author": "Jones44444",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:west-london:ruislip": {
+      "src": "/images/locations/neighbourhood-west-london-ruislip.webp",
+      "alt": "Photograph from Ruislip, London: At Ruislip Lido 2024 013.",
+      "credit": {
+        "label": "Photo by Photograph by Mike Peel ( www.mikepeel.net ). ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:At_Ruislip_Lido_2024_013.jpg"
+      },
+      "source": {
+        "title": "At Ruislip Lido 2024 013.jpg",
+        "author": "Photograph by Mike Peel ( www.mikepeel.net ).",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:west-london:northwood": {
+      "src": "/images/locations/neighbourhood-west-london-northwood.webp",
+      "alt": "Photograph from Northwood, London: Shopping parade, Northwood.",
+      "credit": {
+        "label": "Photo by Stacey Harris ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Shopping_parade,_Northwood_-_geograph.org.uk_-_3662227.jpg"
+      },
+      "source": {
+        "title": "Shopping parade, Northwood - geograph.org.uk - 3662227.jpg",
+        "author": "Stacey Harris",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:west-london:southall": {
+      "src": "/images/locations/neighbourhood-west-london-southall.webp",
+      "alt": "Photograph from Southall, London: Grand Union Canal, Southall, London.",
+      "credit": {
+        "label": "Photo by Kevin Legg ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Grand_Union_Canal,_Southall,_London_-_geograph.org.uk_-_3585265.jpg"
+      },
+      "source": {
+        "title": "Grand Union Canal, Southall, London - geograph.org.uk - 3585265.jpg",
+        "author": "Kevin Legg",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:west-london:acton": {
+      "src": "/images/locations/neighbourhood-west-london-acton.webp",
+      "alt": "Photograph from Acton, London: Acton Cemetery – 20170719 123748 (33760623498).",
+      "credit": {
+        "label": "Photo by Irid Escent ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Acton_Cemetery_%E2%80%93_20170719_123748_(33760623498).jpg"
+      },
+      "source": {
+        "title": "Acton Cemetery – 20170719 123748 (33760623498).jpg",
+        "author": "Irid Escent",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:west-london:ealing-broadway": {
+      "src": "/images/locations/neighbourhood-west-london-ealing-broadway.webp",
+      "alt": "Photograph from Ealing Broadway, London: Ealing Broadway station.",
+      "credit": {
+        "label": "Photo by Marathon ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Ealing_Broadway_station_-_geograph.org.uk_-_4110558.jpg"
+      },
+      "source": {
+        "title": "Ealing Broadway station - geograph.org.uk - 4110558.jpg",
+        "author": "Marathon",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:west-london:hanwell": {
+      "src": "/images/locations/neighbourhood-west-london-hanwell.webp",
+      "alt": "Photograph from Hanwell, London: Millenium Maze Hanwell.",
+      "credit": {
+        "label": "Photo by Sarperen2004 ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Millenium_Maze_Hanwell.jpg"
+      },
+      "source": {
+        "title": "Millenium Maze Hanwell.jpg",
+        "author": "Sarperen2004",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:west-london:greenford": {
+      "src": "/images/locations/neighbourhood-west-london-greenford.webp",
+      "alt": "Photograph from Greenford, London: Greenford railway station.",
+      "credit": {
+        "label": "Photo by Stacey Harris ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Greenford_railway_station_-_geograph.org.uk_-_2583098.jpg"
+      },
+      "source": {
+        "title": "Greenford railway station - geograph.org.uk - 2583098.jpg",
+        "author": "Stacey Harris",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:west-london:chiswick": {
+      "src": "/images/locations/neighbourhood-west-london-chiswick.webp",
+      "alt": "Photograph from Chiswick, London: Chiswick House, front elevation, Chiswick, London.",
+      "credit": {
+        "label": "Photo by DanielCahen01 ? CC BY 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Chiswick_House,_front_elevation,_Chiswick,_London.jpg"
+      },
+      "source": {
+        "title": "Chiswick House, front elevation, Chiswick, London.jpg",
+        "author": "DanielCahen01",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      }
+    },
+    "neighbourhood:west-london:brentford": {
+      "src": "/images/locations/neighbourhood-west-london-brentford.webp",
+      "alt": "Photograph from Brentford, London: Brentford Library (Carnegie Library 1903).",
+      "credit": {
+        "label": "Photo by DanielCahen01 ? CC BY 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Brentford_Library_(Carnegie_Library_1903).jpg"
+      },
+      "source": {
+        "title": "Brentford Library (Carnegie Library 1903).jpg",
+        "author": "DanielCahen01",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      }
+    },
+    "neighbourhood:west-london:hounslow": {
+      "src": "/images/locations/neighbourhood-west-london-hounslow.webp",
+      "alt": "Photograph from Hounslow, London: London , Hounslow - City Scenery.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_,_Hounslow_-_City_Scenery_-_geograph.org.uk_-_5118444.jpg"
+      },
+      "source": {
+        "title": "London , Hounslow - City Scenery - geograph.org.uk - 5118444.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:west-london:isleworth": {
+      "src": "/images/locations/neighbourhood-west-london-isleworth.webp",
+      "alt": "Photograph from Isleworth, London: Riverside - Isleworth - London, UK - DSC07239.",
+      "credit": {
+        "label": "Photo by Daderot ? CC0",
+        "href": "https://commons.wikimedia.org/wiki/File:Riverside_-_Isleworth_-_London,_UK_-_DSC07239.jpg"
+      },
+      "source": {
+        "title": "Riverside - Isleworth - London, UK - DSC07239.jpg",
+        "author": "Daderot",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      }
+    },
+    "neighbourhood:west-london:feltham": {
+      "src": "/images/locations/neighbourhood-west-london-feltham.webp",
+      "alt": "Photograph from Feltham, London: London Borough of Hounslow , North Feltham Trading Estate.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Borough_of_Hounslow_,_North_Feltham_Trading_Estate_-_geograph.org.uk_-_5897348.jpg"
+      },
+      "source": {
+        "title": "London Borough of Hounslow , North Feltham Trading Estate - geograph.org.uk - 5897348.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:west-london:hammersmith": {
+      "src": "/images/locations/neighbourhood-west-london-hammersmith.webp",
+      "alt": "Photograph from Hammersmith, London: London , Hammersmith And Fulham - Fulham Road.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_,_Hammersmith_And_Fulham_-_Fulham_Road_-_geograph.org.uk_-_5058853.jpg"
+      },
+      "source": {
+        "title": "London , Hammersmith And Fulham - Fulham Road - geograph.org.uk - 5058853.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:west-london:fulham": {
+      "src": "/images/locations/neighbourhood-west-london-fulham.webp",
+      "alt": "Photograph from Fulham, London: London , Hammersmith And Fulham - Radipole Road.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_,_Hammersmith_And_Fulham_-_Radipole_Road_-_geograph.org.uk_-_5058854.jpg"
+      },
+      "source": {
+        "title": "London , Hammersmith And Fulham - Radipole Road - geograph.org.uk - 5058854.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:west-london:shepherd-s-bush": {
+      "src": "/images/locations/neighbourhood-west-london-shepherd-s-bush.webp",
+      "alt": "Photograph from Shepherd's Bush, London: Shepherd's Bush railway station MMB 06 377201.",
+      "credit": {
+        "label": "Photo by mattbuck ( category ) ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Shepherd%27s_Bush_railway_station_MMB_06_377201.jpg"
+      },
+      "source": {
+        "title": "Shepherd's Bush railway station MMB 06 377201.jpg",
+        "author": "mattbuck ( category )",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:south-west-london:richmond": {
+      "src": "/images/locations/neighbourhood-south-west-london-richmond.webp",
+      "alt": "Photograph from Richmond, London: London Borough of Richmond upon Thames , Richmond Park.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Borough_of_Richmond_upon_Thames_,_Richmond_Park_-_geograph.org.uk_-_5893241.jpg"
+      },
+      "source": {
+        "title": "London Borough of Richmond upon Thames , Richmond Park - geograph.org.uk - 5893241.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:south-west-london:twickenham": {
+      "src": "/images/locations/neighbourhood-south-west-london-twickenham.webp",
+      "alt": "Photograph from Twickenham, London: Vivien - Twickenham - London, UK - DSC07194.",
+      "credit": {
+        "label": "Photo by Daderot ? CC0",
+        "href": "https://commons.wikimedia.org/wiki/File:Vivien_-_Twickenham_-_London,_UK_-_DSC07194.jpg"
+      },
+      "source": {
+        "title": "Vivien - Twickenham - London, UK - DSC07194.jpg",
+        "author": "Daderot",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      }
+    },
+    "neighbourhood:south-west-london:teddington": {
+      "src": "/images/locations/neighbourhood-south-west-london-teddington.webp",
+      "alt": "Photograph from Teddington, London: St Peter and St Paul, Teddington.",
+      "credit": {
+        "label": "Photo by ChristianSW ? CC0",
+        "href": "https://commons.wikimedia.org/wiki/File:St_Peter_and_St_Paul,_Teddington.jpg"
+      },
+      "source": {
+        "title": "St Peter and St Paul, Teddington.jpg",
+        "author": "ChristianSW",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      }
+    },
+    "neighbourhood:south-west-london:hampton": {
+      "src": "/images/locations/neighbourhood-south-west-london-hampton.webp",
+      "alt": "Photograph from Hampton, London: Hampton Award 002.",
+      "credit": {
+        "label": "Photo by UK Government ? Public domain",
+        "href": "https://commons.wikimedia.org/wiki/File:Hampton_Award_002.tif"
+      },
+      "source": {
+        "title": "Hampton Award 002.tif",
+        "author": "UK Government",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing"
+      }
+    },
+    "neighbourhood:south-west-london:kingston": {
+      "src": "/images/locations/neighbourhood-south-west-london-kingston.webp",
+      "alt": "Photograph from Kingston, London: St Raphael's Interior 1, Kingston, Surrey, UK - Diliff.",
+      "credit": {
+        "label": "Photo by Diliff ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:St_Raphael%27s_Interior_1,_Kingston,_Surrey,_UK_-_Diliff.jpg"
+      },
+      "source": {
+        "title": "St Raphael's Interior 1, Kingston, Surrey, UK - Diliff.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:south-west-london:surbiton": {
+      "src": "/images/locations/neighbourhood-south-west-london-surbiton.webp",
+      "alt": "Photograph from Surbiton, London: St Mark's Church, Surbiton.",
+      "credit": {
+        "label": "Photo by Bill Boaden ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:St_Mark%27s_Church,_Surbiton_-_geograph.org.uk_-_3654485.jpg"
+      },
+      "source": {
+        "title": "St Mark's Church, Surbiton - geograph.org.uk - 3654485.jpg",
+        "author": "Bill Boaden",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:south-west-london:new-malden": {
+      "src": "/images/locations/neighbourhood-south-west-london-new-malden.webp",
+      "alt": "Photograph from New Malden, London: Cambridge Avenue, New Malden.",
+      "credit": {
+        "label": "Photo by Colin Smith ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Cambridge_Avenue,_New_Malden_-_geograph.org.uk_-_3092329.jpg"
+      },
+      "source": {
+        "title": "Cambridge Avenue, New Malden - geograph.org.uk - 3092329.jpg",
+        "author": "Colin Smith",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:south-west-london:wimbledon": {
+      "src": "/images/locations/neighbourhood-south-west-london-wimbledon.webp",
+      "alt": "Photograph from Wimbledon, London: Sacred Heart RC Church Interior 4, Wimbledon, London, UK - Diliff.",
+      "credit": {
+        "label": "Photo by Diliff ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Sacred_Heart_RC_Church_Interior_4,_Wimbledon,_London,_UK_-_Diliff.jpg"
+      },
+      "source": {
+        "title": "Sacred Heart RC Church Interior 4, Wimbledon, London, UK - Diliff.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:south-west-london:morden": {
+      "src": "/images/locations/neighbourhood-south-west-london-morden.webp",
+      "alt": "Photograph from Morden, London: Morden tube station MMB 03 1995 Stock.",
+      "credit": {
+        "label": "Photo by mattbuck ( category ) ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Morden_tube_station_MMB_03_1995_Stock.jpg"
+      },
+      "source": {
+        "title": "Morden tube station MMB 03 1995 Stock.jpg",
+        "author": "mattbuck ( category )",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:south-west-london:mitcham": {
+      "src": "/images/locations/neighbourhood-south-west-london-mitcham.webp",
+      "alt": "Photograph from Mitcham, London: Work at Mitcham Tram Stop (geograph 3035032).",
+      "credit": {
+        "label": "Photo by Peter Trimming ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Work_at_Mitcham_Tram_Stop_(geograph_3035032).jpg"
+      },
+      "source": {
+        "title": "Work at Mitcham Tram Stop (geograph 3035032).jpg",
+        "author": "Peter Trimming",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:south-west-london:putney": {
+      "src": "/images/locations/neighbourhood-south-west-london-putney.webp",
+      "alt": "Photograph from Putney, London: Putney Library 03.",
+      "credit": {
+        "label": "Photo by Edwardx ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Putney_Library_03.JPG"
+      },
+      "source": {
+        "title": "Putney Library 03.JPG",
+        "author": "Edwardx",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:south-west-london:battersea": {
+      "src": "/images/locations/neighbourhood-south-west-london-battersea.webp",
+      "alt": "Photograph from Battersea, London: Battersea Power Station copy.",
+      "credit": {
+        "label": "Photo by Tosh Marshall ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Battersea_Power_Station_copy.jpg"
+      },
+      "source": {
+        "title": "Battersea Power Station copy.jpg",
+        "author": "Tosh Marshall",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:south-west-london:balham": {
+      "src": "/images/locations/neighbourhood-south-west-london-balham.webp",
+      "alt": "Photograph from Balham, London: Ekcovision in balham.",
+      "credit": {
+        "label": "Photo by Secretlondon ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Ekcovision_in_balham.jpg"
+      },
+      "source": {
+        "title": "Ekcovision in balham.jpg",
+        "author": "Secretlondon",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:south-west-london:tooting": {
+      "src": "/images/locations/neighbourhood-south-west-london-tooting.webp",
+      "alt": "Photograph from Tooting, London: All Saints Church, Tooting.",
+      "credit": {
+        "label": "Photo by Austenasia ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:All_Saints_Church,_Tooting_-_geograph.org.uk_-_5391106.jpg"
+      },
+      "source": {
+        "title": "All Saints Church, Tooting - geograph.org.uk - 5391106.jpg",
+        "author": "Austenasia",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:south-west-london:earlsfield": {
+      "src": "/images/locations/neighbourhood-south-west-london-earlsfield.webp",
+      "alt": "Photograph from Earlsfield, London: The Wandle, Garratt Lane, Earlsfield, London 01.",
+      "credit": {
+        "label": "Photo by Edward Hands ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:The_Wandle,_Garratt_Lane,_Earlsfield,_London_01.jpg"
+      },
+      "source": {
+        "title": "The Wandle, Garratt Lane, Earlsfield, London 01.jpg",
+        "author": "Edward Hands",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:south-west-london:wandsworth": {
+      "src": "/images/locations/neighbourhood-south-west-london-wandsworth.webp",
+      "alt": "Photograph from Wandsworth, London: London , Wandsworth - Shell Petrol Station.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_,_Wandsworth_-_Shell_Petrol_Station_-_geograph.org.uk_-_2409501.jpg"
+      },
+      "source": {
+        "title": "London , Wandsworth - Shell Petrol Station - geograph.org.uk - 2409501.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:south-london:sutton": {
+      "src": "/images/locations/neighbourhood-south-london-sutton.webp",
+      "alt": "Photograph from Sutton, London: London , Sutton - Mayfield Lavender Fields.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_,_Sutton_-_Mayfield_Lavender_Fields_-_geograph.org.uk_-_4068969.jpg"
+      },
+      "source": {
+        "title": "London , Sutton - Mayfield Lavender Fields - geograph.org.uk - 4068969.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:south-london:carshalton": {
+      "src": "/images/locations/neighbourhood-south-london-carshalton.webp",
+      "alt": "Photograph from Carshalton, London: All Saints Church Carshalton Interior 1, Surrey, UK - Diliff.",
+      "credit": {
+        "label": "Photo by Diliff ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:All_Saints_Church_Carshalton_Interior_1,_Surrey,_UK_-_Diliff.jpg"
+      },
+      "source": {
+        "title": "All Saints Church Carshalton Interior 1, Surrey, UK - Diliff.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:south-london:wallington": {
+      "src": "/images/locations/neighbourhood-south-london-wallington.webp",
+      "alt": "Photograph from Wallington, London: Maldon Road - Wallington.",
+      "credit": {
+        "label": "Photo by James Emmans ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Maldon_Road_-_Wallington_-_geograph.org.uk_-_6470747.jpg"
+      },
+      "source": {
+        "title": "Maldon Road - Wallington - geograph.org.uk - 6470747.jpg",
+        "author": "James Emmans",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:south-london:cheam": {
+      "src": "/images/locations/neighbourhood-south-london-cheam.webp",
+      "alt": "Photograph from Cheam, London: Cheam London Borough of Sutton Samsara restaurant.",
+      "credit": {
+        "label": "Photo by A P Monblat ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Cheam_London_Borough_of_Sutton_Samsara_restaurant.JPG"
+      },
+      "source": {
+        "title": "Cheam London Borough of Sutton Samsara restaurant.JPG",
+        "author": "A P Monblat",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:south-london:croydon": {
+      "src": "/images/locations/neighbourhood-south-london-croydon.webp",
+      "alt": "Photograph from Croydon, London: London Road, Broad Green, Croydon.",
+      "credit": {
+        "label": "Photo by Peter Trimming ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Road,_Broad_Green,_Croydon_-_geograph.org.uk_-_2577695.jpg"
+      },
+      "source": {
+        "title": "London Road, Broad Green, Croydon - geograph.org.uk - 2577695.jpg",
+        "author": "Peter Trimming",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:south-london:purley": {
+      "src": "/images/locations/neighbourhood-south-london-purley.webp",
+      "alt": "Photograph from Purley, London: Purley train station 02.",
+      "credit": {
+        "label": "Photo by Simon Burchell ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Purley_train_station_02.jpg"
+      },
+      "source": {
+        "title": "Purley train station 02.jpg",
+        "author": "Simon Burchell",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:south-london:thornton-heath": {
+      "src": "/images/locations/neighbourhood-south-london-thornton-heath.webp",
+      "alt": "Photograph from Thornton Heath, London: Hythe Road, Thornton Heath.",
+      "credit": {
+        "label": "Photo by Christopher Hilton ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Hythe_Road,_Thornton_Heath_-_geograph.org.uk_-_3564164.jpg"
+      },
+      "source": {
+        "title": "Hythe Road, Thornton Heath - geograph.org.uk - 3564164.jpg",
+        "author": "Christopher Hilton",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:south-london:south-norwood": {
+      "src": "/images/locations/neighbourhood-south-london-south-norwood.webp",
+      "alt": "Photograph from South Norwood, London: South Norwood Public Library.",
+      "credit": {
+        "label": "Photo by David Anstiss ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:South_Norwood_Public_Library_-_geograph.org.uk_-_2735093.jpg"
+      },
+      "source": {
+        "title": "South Norwood Public Library - geograph.org.uk - 2735093.jpg",
+        "author": "David Anstiss",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:south-london:norbury": {
+      "src": "/images/locations/neighbourhood-south-london-norbury.webp",
+      "alt": "Photograph from Norbury, London: Norbury Hill, Norbury.",
+      "credit": {
+        "label": "Photo by David Howard ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Norbury_Hill,_Norbury_-_geograph.org.uk_-_3676784.jpg"
+      },
+      "source": {
+        "title": "Norbury Hill, Norbury - geograph.org.uk - 3676784.jpg",
+        "author": "David Howard",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:south-london:brixton": {
+      "src": "/images/locations/neighbourhood-south-london-brixton.webp",
+      "alt": "Photograph from Brixton, London: At Brixton, London 2025 004.",
+      "credit": {
+        "label": "Photo by Photograph by Mike Peel ( www.mikepeel.net ). ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:At_Brixton,_London_2025_004.jpg"
+      },
+      "source": {
+        "title": "At Brixton, London 2025 004.jpg",
+        "author": "Photograph by Mike Peel ( www.mikepeel.net ).",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:south-london:clapham": {
+      "src": "/images/locations/neighbourhood-south-london-clapham.webp",
+      "alt": "Photograph from Clapham, London: Milestone in Clapham aug 21.",
+      "credit": {
+        "label": "Photo by Secretlondon ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Milestone_in_Clapham_aug_21.jpg"
+      },
+      "source": {
+        "title": "Milestone in Clapham aug 21.jpg",
+        "author": "Secretlondon",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:south-london:streatham": {
+      "src": "/images/locations/neighbourhood-south-london-streatham.webp",
+      "alt": "Photograph from Streatham, London: Rag-and-bone man, Streatham, London, 1985.",
+      "credit": {
+        "label": "Photo by Tony 1212 ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Rag-and-bone_man,_Streatham,_London,_1985.jpg"
+      },
+      "source": {
+        "title": "Rag-and-bone man, Streatham, London, 1985.jpg",
+        "author": "Tony 1212",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:south-london:vauxhall": {
+      "src": "/images/locations/neighbourhood-south-london-vauxhall.webp",
+      "alt": "Photograph from Vauxhall, London: Vauxhall, Vauxhall Bridge, St George Wharf Tower at low tide. View from Lambeth Bridge.",
+      "credit": {
+        "label": "Photo by Ввласенко ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Vauxhall,_Vauxhall_Bridge,_St_George_Wharf_Tower_at_low_tide._View_from_Lambeth_Bridge.jpg"
+      },
+      "source": {
+        "title": "Vauxhall, Vauxhall Bridge, St George Wharf Tower at low tide. View from Lambeth Bridge.jpg",
+        "author": "Ввласенко",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:south-london:kennington": {
+      "src": "/images/locations/neighbourhood-south-london-kennington.webp",
+      "alt": "Photograph from Kennington, London: Kennington front 2020.",
+      "credit": {
+        "label": "Photo by TheFrog001 ? CC0",
+        "href": "https://commons.wikimedia.org/wiki/File:Kennington_front_2020.jpg"
+      },
+      "source": {
+        "title": "Kennington front 2020.jpg",
+        "author": "TheFrog001",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      }
+    },
+    "neighbourhood:south-london:stockwell": {
+      "src": "/images/locations/neighbourhood-south-london-stockwell.webp",
+      "alt": "Photograph from Stockwell, London: Stockwell tube roundel.",
+      "credit": {
+        "label": "Photo by Oxyman ? CC BY 2.5",
+        "href": "https://commons.wikimedia.org/wiki/File:Stockwell_tube_roundel.jpg"
+      },
+      "source": {
+        "title": "Stockwell tube roundel.jpg",
+        "author": "Oxyman",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+      }
+    },
+    "neighbourhood:south-east-london:london-bridge": {
+      "src": "/images/locations/neighbourhood-south-east-london-london-bridge.webp",
+      "alt": "Photograph from London Bridge, London: Tower Bridge London Feb 2006.",
+      "credit": {
+        "label": "Photo by Diliff ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_London_Feb_2006.jpg"
+      },
+      "source": {
+        "title": "Tower Bridge London Feb 2006.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:south-east-london:bermondsey": {
+      "src": "/images/locations/neighbourhood-south-east-london-bermondsey.webp",
+      "alt": "Photograph from Bermondsey, London: Bermondsey, London aerial view.",
+      "credit": {
+        "label": "Photo by Tim Sheerman-Chase ? CC BY 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Bermondsey,_London_aerial_view.jpg"
+      },
+      "source": {
+        "title": "Bermondsey, London aerial view.jpg",
+        "author": "Tim Sheerman-Chase",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      }
+    },
+    "neighbourhood:south-east-london:rotherhithe": {
+      "src": "/images/locations/neighbourhood-south-east-london-rotherhithe.webp",
+      "alt": "Photograph from Rotherhithe, London: West Face of St Olav's Church, Rotherhithe (II).",
+      "credit": {
+        "label": "Photo by Ethan Doyle White ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:West_Face_of_St_Olav%27s_Church,_Rotherhithe_(II).jpg"
+      },
+      "source": {
+        "title": "West Face of St Olav's Church, Rotherhithe (II).jpg",
+        "author": "Ethan Doyle White",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:south-east-london:peckham": {
+      "src": "/images/locations/neighbourhood-south-east-london-peckham.webp",
+      "alt": "Photograph from Peckham, London: Choumert Grove Car Park, Peckham.",
+      "credit": {
+        "label": "Photo by PAUL FARMER ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Choumert_Grove_Car_Park,_Peckham_-_geograph.org.uk_-_3618455.jpg"
+      },
+      "source": {
+        "title": "Choumert Grove Car Park, Peckham - geograph.org.uk - 3618455.jpg",
+        "author": "PAUL FARMER",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:south-east-london:dulwich": {
+      "src": "/images/locations/neighbourhood-south-east-london-dulwich.webp",
+      "alt": "Photograph from Dulwich, London: Bemberg Fondation Toulouse - Dulwich College, Londres (1871) - Camille Pissarro Inv.2149.",
+      "credit": {
+        "label": "Photo by Didier Descouens ? Public domain",
+        "href": "https://commons.wikimedia.org/wiki/File:Bemberg_Fondation_Toulouse_-_Dulwich_College,_Londres_(1871)_-_Camille_Pissarro_Inv.2149.jpg"
+      },
+      "source": {
+        "title": "Bemberg Fondation Toulouse - Dulwich College, Londres (1871) - Camille Pissarro Inv.2149.jpg",
+        "author": "Didier Descouens",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing"
+      }
+    },
+    "neighbourhood:south-east-london:camberwell": {
+      "src": "/images/locations/neighbourhood-south-east-london-camberwell.webp",
+      "alt": "Photograph from Camberwell, London: Camberwell College of Arts (1).",
+      "credit": {
+        "label": "Photo by Jwslubbock ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Camberwell_College_of_Arts_(1).jpg"
+      },
+      "source": {
+        "title": "Camberwell College of Arts (1).jpg",
+        "author": "Jwslubbock",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:south-east-london:deptford": {
+      "src": "/images/locations/neighbourhood-south-east-london-deptford.webp",
+      "alt": "Photograph from Deptford, London: Monument to Peter the Great of Russia, Deptford 02.",
+      "credit": {
+        "label": "Photo by Simon Burchell ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Monument_to_Peter_the_Great_of_Russia,_Deptford_02.jpg"
+      },
+      "source": {
+        "title": "Monument to Peter the Great of Russia, Deptford 02.jpg",
+        "author": "Simon Burchell",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:south-east-london:lewisham": {
+      "src": "/images/locations/neighbourhood-south-east-london-lewisham.webp",
+      "alt": "Photograph from Lewisham, London: London , Lewisham - River Thames.",
+      "credit": {
+        "label": "Photo by Lewis Clarke ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_,_Lewisham_-_River_Thames_-_geograph.org.uk_-_4068114.jpg"
+      },
+      "source": {
+        "title": "London , Lewisham - River Thames - geograph.org.uk - 4068114.jpg",
+        "author": "Lewis Clarke",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:south-east-london:catford": {
+      "src": "/images/locations/neighbourhood-south-east-london-catford.webp",
+      "alt": "Photograph from Catford, London: Catford Hill, Catford.",
+      "credit": {
+        "label": "Photo by Chris Whippet ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Catford_Hill,_Catford_-_geograph.org.uk_-_4610171.jpg"
+      },
+      "source": {
+        "title": "Catford Hill, Catford - geograph.org.uk - 4610171.jpg",
+        "author": "Chris Whippet",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:south-east-london:blackheath": {
+      "src": "/images/locations/neighbourhood-south-east-london-blackheath.webp",
+      "alt": "Photograph from Blackheath, London: All Saints, Blackheath - 2022-04-24.",
+      "credit": {
+        "label": "Photo by The wub ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:All_Saints,_Blackheath_-_2022-04-24.jpg"
+      },
+      "source": {
+        "title": "All Saints, Blackheath - 2022-04-24.jpg",
+        "author": "The wub",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:south-east-london:greenwich": {
+      "src": "/images/locations/neighbourhood-south-east-london-greenwich.webp",
+      "alt": "Photograph from Greenwich, London: Old Royal Naval College Chapel Interior, Greenwich, London, UK - Diliff.",
+      "credit": {
+        "label": "Photo by Diliff ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Old_Royal_Naval_College_Chapel_Interior,_Greenwich,_London,_UK_-_Diliff.jpg"
+      },
+      "source": {
+        "title": "Old Royal Naval College Chapel Interior, Greenwich, London, UK - Diliff.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:south-east-london:woolwich": {
+      "src": "/images/locations/neighbourhood-south-east-london-woolwich.webp",
+      "alt": "Photograph from Woolwich, London: London, Woolwich, Wellington St, Woolwich Centre 01.",
+      "credit": {
+        "label": "Photo by Kleon3 ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London,_Woolwich,_Wellington_St,_Woolwich_Centre_01.jpg"
+      },
+      "source": {
+        "title": "London, Woolwich, Wellington St, Woolwich Centre 01.jpg",
+        "author": "Kleon3",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:south-east-london:eltham": {
+      "src": "/images/locations/neighbourhood-south-east-london-eltham.webp",
+      "alt": "Photograph from Eltham, London: The Western Face of the Church of Holy Trinity, Eltham.",
+      "credit": {
+        "label": "Photo by Ethan Doyle White ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:The_Western_Face_of_the_Church_of_Holy_Trinity,_Eltham.jpg"
+      },
+      "source": {
+        "title": "The Western Face of the Church of Holy Trinity, Eltham.jpg",
+        "author": "Ethan Doyle White",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:south-east-london:thamesmead": {
+      "src": "/images/locations/neighbourhood-south-east-london-thamesmead.webp",
+      "alt": "Photograph from Thamesmead, London: London, Thamesmead, aerial view 04.",
+      "credit": {
+        "label": "Photo by Kleon3 ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London,_Thamesmead,_aerial_view_04.jpg"
+      },
+      "source": {
+        "title": "London, Thamesmead, aerial view 04.jpg",
+        "author": "Kleon3",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:south-east-london:bexleyheath": {
+      "src": "/images/locations/neighbourhood-south-east-london-bexleyheath.webp",
+      "alt": "Photograph from Bexleyheath, London: London Central Lineup, Bexleyheath 2025-01-18.",
+      "credit": {
+        "label": "Photo by Aubrey ? CC BY 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Central_Lineup,_Bexleyheath_2025-01-18.jpg"
+      },
+      "source": {
+        "title": "London Central Lineup, Bexleyheath 2025-01-18.jpg",
+        "author": "Aubrey",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      }
+    },
+    "neighbourhood:south-east-london:sidcup": {
+      "src": "/images/locations/neighbourhood-south-east-london-sidcup.webp",
+      "alt": "Photograph from Sidcup, London: London Loop - Sidcup Place.",
+      "credit": {
+        "label": "Photo by Peter S ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London_Loop_-_Sidcup_Place_-_geograph.org.uk_-_6649691.jpg"
+      },
+      "source": {
+        "title": "London Loop - Sidcup Place - geograph.org.uk - 6649691.jpg",
+        "author": "Peter S",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:south-east-london:orpington": {
+      "src": "/images/locations/neighbourhood-south-east-london-orpington.webp",
+      "alt": "Photograph from Orpington, London: Orpington College.",
+      "credit": {
+        "label": "Photo by Stacey Harris ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Orpington_College_-_geograph.org.uk_-_1848929.jpg"
+      },
+      "source": {
+        "title": "Orpington College - geograph.org.uk - 1848929.jpg",
+        "author": "Stacey Harris",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:south-east-london:beckenham": {
+      "src": "/images/locations/neighbourhood-south-east-london-beckenham.webp",
+      "alt": "Photograph from Beckenham, London: The Cinema Beckenham 2018-11-17.",
+      "credit": {
+        "label": "Photo by JOHN K THORNE ? Public domain",
+        "href": "https://commons.wikimedia.org/wiki/File:The_Cinema_Beckenham_2018-11-17.jpg"
+      },
+      "source": {
+        "title": "The Cinema Beckenham 2018-11-17.jpg",
+        "author": "JOHN K THORNE",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing"
+      }
+    },
+    "neighbourhood:east-london:canary-wharf": {
+      "src": "/images/locations/neighbourhood-east-london-canary-wharf.webp",
+      "alt": "Photograph from Canary Wharf, London: Canary Wharf Skyline 2, London UK - Oct 2012.",
+      "credit": {
+        "label": "Photo by Diliff ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Canary_Wharf_Skyline_2,_London_UK_-_Oct_2012.jpg"
+      },
+      "source": {
+        "title": "Canary Wharf Skyline 2, London UK - Oct 2012.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:east-london:poplar": {
+      "src": "/images/locations/neighbourhood-east-london-poplar.webp",
+      "alt": "Photograph from Poplar, London: Poplar and Canary Wharf skyline - 2023-08-20.",
+      "credit": {
+        "label": "Photo by The wub ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Poplar_and_Canary_Wharf_skyline_-_2023-08-20.jpg"
+      },
+      "source": {
+        "title": "Poplar and Canary Wharf skyline - 2023-08-20.jpg",
+        "author": "The wub",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:east-london:limehouse": {
+      "src": "/images/locations/neighbourhood-east-london-limehouse.webp",
+      "alt": "Photograph from Limehouse, London: London, Limehouse -- 2016 -- 4755.",
+      "credit": {
+        "label": "Photo by Dietmar Rabich ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:London,_Limehouse_--_2016_--_4755.jpg"
+      },
+      "source": {
+        "title": "London, Limehouse -- 2016 -- 4755.jpg",
+        "author": "Dietmar Rabich",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:east-london:whitechapel": {
+      "src": "/images/locations/neighbourhood-east-london-whitechapel.webp",
+      "alt": "Photograph from Whitechapel, London: AEC Routemaster RM1562 (562 CLT) on Heritage Route 9, London near Whitechapel (March 2013).",
+      "credit": {
+        "label": "Photo by Vintage Fan 5678 ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:AEC_Routemaster_RM1562_(562_CLT)_on_Heritage_Route_9,_London_near_Whitechapel_(March_2013).jpg"
+      },
+      "source": {
+        "title": "AEC Routemaster RM1562 (562 CLT) on Heritage Route 9, London near Whitechapel (March 2013).jpg",
+        "author": "Vintage Fan 5678",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:east-london:bethnal-green": {
+      "src": "/images/locations/neighbourhood-east-london-bethnal-green.webp",
+      "alt": "Photograph from Bethnal Green, London: Museum Gardens, Bethnal Green.",
+      "credit": {
+        "label": "Photo by Neil Theasby ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Museum_Gardens,_Bethnal_Green_-_geograph.org.uk_-_5409105.jpg"
+      },
+      "source": {
+        "title": "Museum Gardens, Bethnal Green - geograph.org.uk - 5409105.jpg",
+        "author": "Neil Theasby",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:east-london:bow": {
+      "src": "/images/locations/neighbourhood-east-london-bow.webp",
+      "alt": "Photograph from Bow, London: St Mary-le-Bow Church Interior 2, London, UK - Diliff.",
+      "credit": {
+        "label": "Photo by Diliff ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:St_Mary-le-Bow_Church_Interior_2,_London,_UK_-_Diliff.jpg"
+      },
+      "source": {
+        "title": "St Mary-le-Bow Church Interior 2, London, UK - Diliff.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:east-london:mile-end": {
+      "src": "/images/locations/neighbourhood-east-london-mile-end.webp",
+      "alt": "Photograph from Mile End, London: Edicule Square, Mile End, London.",
+      "credit": {
+        "label": "Photo by Neil Theasby ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Edicule_Square,_Mile_End,_London_-_geograph.org.uk_-_5408959.jpg"
+      },
+      "source": {
+        "title": "Edicule Square, Mile End, London - geograph.org.uk - 5408959.jpg",
+        "author": "Neil Theasby",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:east-london:stratford": {
+      "src": "/images/locations/neighbourhood-east-london-stratford.webp",
+      "alt": "Photograph from Stratford, London: Stratford station MMB 32.",
+      "credit": {
+        "label": "Photo by mattbuck ( category ) ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Stratford_station_MMB_32.jpg"
+      },
+      "source": {
+        "title": "Stratford station MMB 32.jpg",
+        "author": "mattbuck ( category )",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:east-london:west-ham": {
+      "src": "/images/locations/neighbourhood-east-london-west-ham.webp",
+      "alt": "Photograph from West Ham, London: West Ham station MMB 19 D Stock.",
+      "credit": {
+        "label": "Photo by mattbuck ( category ) ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:West_Ham_station_MMB_19_D_Stock.jpg"
+      },
+      "source": {
+        "title": "West Ham station MMB 19 D Stock.jpg",
+        "author": "mattbuck ( category )",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:east-london:east-ham": {
+      "src": "/images/locations/neighbourhood-east-london-east-ham.webp",
+      "alt": "Photograph from East Ham, London: Detail inside East Ham Tube Station (02).",
+      "credit": {
+        "label": "Photo by Doyle of London ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Detail_inside_East_Ham_Tube_Station_(02).jpg"
+      },
+      "source": {
+        "title": "Detail inside East Ham Tube Station (02).jpg",
+        "author": "Doyle of London",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:east-london:canning-town": {
+      "src": "/images/locations/neighbourhood-east-london-canning-town.webp",
+      "alt": "Photograph from Canning Town, London: Trains in canning town.",
+      "credit": {
+        "label": "Photo by Romazur ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Trains_in_canning_town.jpg"
+      },
+      "source": {
+        "title": "Trains in canning town.jpg",
+        "author": "Romazur",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:east-london:plaistow": {
+      "src": "/images/locations/neighbourhood-east-london-plaistow.webp",
+      "alt": "Photograph from Plaistow, London: Plaistow station.",
+      "credit": {
+        "label": "Photo by Marathon ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Plaistow_station_-_geograph.org.uk_-_4132779.jpg"
+      },
+      "source": {
+        "title": "Plaistow station - geograph.org.uk - 4132779.jpg",
+        "author": "Marathon",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:east-london:barking": {
+      "src": "/images/locations/neighbourhood-east-london-barking.webp",
+      "alt": "Photograph from Barking, London: Flats on London Road, Barking.",
+      "credit": {
+        "label": "Photo by JThomas ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Flats_on_London_Road,_Barking_-_geograph.org.uk_-_6150311.jpg"
+      },
+      "source": {
+        "title": "Flats on London Road, Barking - geograph.org.uk - 6150311.jpg",
+        "author": "JThomas",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:east-london:dagenham": {
+      "src": "/images/locations/neighbourhood-east-london-dagenham.webp",
+      "alt": "Photograph from Dagenham, London: Dagenham Stamping Operations, Dagenham Docks.",
+      "credit": {
+        "label": "Photo by David Anstiss ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Dagenham_Stamping_Operations,_Dagenham_Docks_-_geograph.org.uk_-_3394449.jpg"
+      },
+      "source": {
+        "title": "Dagenham Stamping Operations, Dagenham Docks - geograph.org.uk - 3394449.jpg",
+        "author": "David Anstiss",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:east-london:romford": {
+      "src": "/images/locations/neighbourhood-east-london-romford.webp",
+      "alt": "Photograph from Romford, London: Romford outdoor market at Market Place Romford London 03.",
+      "credit": {
+        "label": "Photo by Acabashi ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Romford_outdoor_market_at_Market_Place_Romford_London_03.jpg"
+      },
+      "source": {
+        "title": "Romford outdoor market at Market Place Romford London 03.jpg",
+        "author": "Acabashi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:east-london:hornchurch": {
+      "src": "/images/locations/neighbourhood-east-london-hornchurch.webp",
+      "alt": "Photograph from Hornchurch, London: St Andrews Park Hornchurch 2021.",
+      "credit": {
+        "label": "Photo by TheFrog001 ? CC0",
+        "href": "https://commons.wikimedia.org/wiki/File:St_Andrews_Park_Hornchurch_2021.jpg"
+      },
+      "source": {
+        "title": "St Andrews Park Hornchurch 2021.jpg",
+        "author": "TheFrog001",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      }
+    },
+    "neighbourhood:east-london:upminster": {
+      "src": "/images/locations/neighbourhood-east-london-upminster.webp",
+      "alt": "Photograph from Upminster, London: The London Overground at Upminster.",
+      "credit": {
+        "label": "Photo by Dr Neil Clifton ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:The_London_Overground_at_Upminster_-_geograph.org.uk_-_4815270.jpg"
+      },
+      "source": {
+        "title": "The London Overground at Upminster - geograph.org.uk - 4815270.jpg",
+        "author": "Dr Neil Clifton",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:north-east-london:hackney-central": {
+      "src": "/images/locations/neighbourhood-north-east-london-hackney-central.webp",
+      "alt": "Photograph from Hackney Central, London: Hackney Central railway station MMB 10 378005.",
+      "credit": {
+        "label": "Photo by mattbuck ( category ) ? CC BY-SA 3.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Hackney_Central_railway_station_MMB_10_378005.jpg"
+      },
+      "source": {
+        "title": "Hackney Central railway station MMB 10 378005.jpg",
+        "author": "mattbuck ( category )",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    },
+    "neighbourhood:north-east-london:dalston": {
+      "src": "/images/locations/neighbourhood-north-east-london-dalston.webp",
+      "alt": "Photograph from Dalston, London: Dalston, Hindle House.",
+      "credit": {
+        "label": "Photo by Dr Neil Clifton ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Dalston,_Hindle_House_-_geograph.org.uk_-_2925765.jpg"
+      },
+      "source": {
+        "title": "Dalston, Hindle House - geograph.org.uk - 2925765.jpg",
+        "author": "Dr Neil Clifton",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:north-east-london:shoreditch": {
+      "src": "/images/locations/neighbourhood-north-east-london-shoreditch.webp",
+      "alt": "Photograph from Shoreditch, London: View of street art on the old Shoreditch tube station building from Pedley Street.",
+      "credit": {
+        "label": "Photo by Robert Lamb ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:View_of_street_art_on_the_old_Shoreditch_tube_station_building_from_Pedley_Street_-_geograph.org.uk_-_5167206.jpg"
+      },
+      "source": {
+        "title": "View of street art on the old Shoreditch tube station building from Pedley Street - geograph.org.uk - 5167206.jpg",
+        "author": "Robert Lamb",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:north-east-london:stoke-newington": {
+      "src": "/images/locations/neighbourhood-north-east-london-stoke-newington.webp",
+      "alt": "Photograph from Stoke Newington, London: St Mary's Church, Stoke Newington.",
+      "credit": {
+        "label": "Photo by Eirian Evans ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:St_Mary%27s_Church,_Stoke_Newington_-_geograph.org.uk_-_6039214.jpg"
+      },
+      "source": {
+        "title": "St Mary's Church, Stoke Newington - geograph.org.uk - 6039214.jpg",
+        "author": "Eirian Evans",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:north-east-london:clapton": {
+      "src": "/images/locations/neighbourhood-north-east-london-clapton.webp",
+      "alt": "Photograph from Clapton, London: Upper Clapton Road, London E5.",
+      "credit": {
+        "label": "Photo by Stacey Harris ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Upper_Clapton_Road,_London_E5_-_geograph.org.uk_-_2763450.jpg"
+      },
+      "source": {
+        "title": "Upper Clapton Road, London E5 - geograph.org.uk - 2763450.jpg",
+        "author": "Stacey Harris",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:north-east-london:homerton": {
+      "src": "/images/locations/neighbourhood-north-east-london-homerton.webp",
+      "alt": "Photograph from Homerton, London: \"The Plough\" public house, Homerton High Street.",
+      "credit": {
+        "label": "Photo by Jim Osley ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:%22The_Plough%22_public_house,_Homerton_High_Street_-_geograph.org.uk_-_5041564.jpg"
+      },
+      "source": {
+        "title": "\"The Plough\" public house, Homerton High Street - geograph.org.uk - 5041564.jpg",
+        "author": "Jim Osley",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:north-east-london:walthamstow": {
+      "src": "/images/locations/neighbourhood-north-east-london-walthamstow.webp",
+      "alt": "Photograph from Walthamstow, London: Walthamstow Stadium, Chingford, London, England.",
+      "credit": {
+        "label": "Photo by Acabashi ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Walthamstow_Stadium,_Chingford,_London,_England.jpg"
+      },
+      "source": {
+        "title": "Walthamstow Stadium, Chingford, London, England.jpg",
+        "author": "Acabashi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-east-london:leyton": {
+      "src": "/images/locations/neighbourhood-north-east-london-leyton.webp",
+      "alt": "Photograph from Leyton, London: Chance McCoy What's Cookin' The Birkbeck Tavern, Leyton, London UK October 2011.",
+      "credit": {
+        "label": "Photo by Jeff G from London, England. ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Chance_McCoy_What%27s_Cookin%27_The_Birkbeck_Tavern,_Leyton,_London_UK_October_2011.jpg"
+      },
+      "source": {
+        "title": "Chance McCoy What's Cookin' The Birkbeck Tavern, Leyton, London UK October 2011.jpg",
+        "author": "Jeff G from London, England.",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:north-east-london:leytonstone": {
+      "src": "/images/locations/neighbourhood-north-east-london-leytonstone.webp",
+      "alt": "Photograph from Leytonstone, London: Leytonstone tube roundel dec 07.",
+      "credit": {
+        "label": "Photo by Secretlondon ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Leytonstone_tube_roundel_dec_07.jpg"
+      },
+      "source": {
+        "title": "Leytonstone tube roundel dec 07.jpg",
+        "author": "Secretlondon",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-east-london:chingford": {
+      "src": "/images/locations/neighbourhood-north-east-london-chingford.webp",
+      "alt": "Photograph from Chingford, London: Chingford, London Overground.",
+      "credit": {
+        "label": "Photo by Dr Neil Clifton ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Chingford,_London_Overground_-_geograph.org.uk_-_4834910.jpg"
+      },
+      "source": {
+        "title": "Chingford, London Overground - geograph.org.uk - 4834910.jpg",
+        "author": "Dr Neil Clifton",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    },
+    "neighbourhood:north-east-london:woodford": {
+      "src": "/images/locations/neighbourhood-north-east-london-woodford.webp",
+      "alt": "Photograph from Woodford, London: Woodford Green CC v Springfield CC at Woodford Green, London 01.",
+      "credit": {
+        "label": "Photo by Acabashi ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Woodford_Green_CC_v_Springfield_CC_at_Woodford_Green,_London_01.jpg"
+      },
+      "source": {
+        "title": "Woodford Green CC v Springfield CC at Woodford Green, London 01.jpg",
+        "author": "Acabashi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-east-london:wanstead": {
+      "src": "/images/locations/neighbourhood-north-east-london-wanstead.webp",
+      "alt": "Photograph from Wanstead, London: Concrete agrigate path detail, Wanstead & Snaresbrook CC, London 02.",
+      "credit": {
+        "label": "Photo by Acabashi ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Concrete_agrigate_path_detail,_Wanstead_%26_Snaresbrook_CC,_London_02.jpg"
+      },
+      "source": {
+        "title": "Concrete agrigate path detail, Wanstead & Snaresbrook CC, London 02.jpg",
+        "author": "Acabashi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-east-london:ilford": {
+      "src": "/images/locations/neighbourhood-north-east-london-ilford.webp",
+      "alt": "Photograph from Ilford, London: St Mary's Church, Ilford 3.",
+      "credit": {
+        "label": "Photo by Mx. Granger ? CC0",
+        "href": "https://commons.wikimedia.org/wiki/File:St_Mary%27s_Church,_Ilford_3.jpg"
+      },
+      "source": {
+        "title": "St Mary's Church, Ilford 3.jpg",
+        "author": "Mx. Granger",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      }
+    },
+    "neighbourhood:north-east-london:seven-kings": {
+      "src": "/images/locations/neighbourhood-north-east-london-seven-kings.webp",
+      "alt": "Photograph from Seven Kings, London: Seven Kings Park 3.",
+      "credit": {
+        "label": "Photo by Mx. Granger ? CC0",
+        "href": "https://commons.wikimedia.org/wiki/File:Seven_Kings_Park_3.jpg"
+      },
+      "source": {
+        "title": "Seven Kings Park 3.jpg",
+        "author": "Mx. Granger",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      }
+    },
+    "neighbourhood:north-east-london:gants-hill": {
+      "src": "/images/locations/neighbourhood-north-east-london-gants-hill.webp",
+      "alt": "Photograph from Gants Hill, London: Gants Hill library.",
+      "credit": {
+        "label": "Photo by The wub ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Gants_Hill_library.jpg"
+      },
+      "source": {
+        "title": "Gants Hill library.jpg",
+        "author": "The wub",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:north-east-london:south-woodford": {
+      "src": "/images/locations/neighbourhood-north-east-london-south-woodford.webp",
+      "alt": "Photograph from South Woodford, London: South Woodford tube station east entrance - 2022.",
+      "credit": {
+        "label": "Photo by The wub ? CC BY-SA 4.0",
+        "href": "https://commons.wikimedia.org/wiki/File:South_Woodford_tube_station_east_entrance_-_2022.jpg"
+      },
+      "source": {
+        "title": "South Woodford tube station east entrance - 2022.jpg",
+        "author": "The wub",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    },
+    "neighbourhood:south-east-london:bromley": {
+      "src": "/images/locations/neighbourhood-south-east-london-bromley.webp",
+      "alt": "Photograph from Bromley, London: Bromley High Street.",
+      "credit": {
+        "label": "Photo by Des Blenkinsopp ? CC BY-SA 2.0",
+        "href": "https://commons.wikimedia.org/wiki/File:Bromley_High_Street_-_geograph.org.uk_-_5217486.jpg"
+      },
+      "source": {
+        "title": "Bromley High Street - geograph.org.uk - 5217486.jpg",
+        "author": "Des Blenkinsopp",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    }
+  }
+}
